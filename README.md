@@ -55,7 +55,6 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - incapable of interfacing with some nintendo hardware/software (n64 game pak, pal park, etc.)
 
 # relevant flash carts & surrounding nuance
-- **gba flash carts cannot be used to play gbc games without utilizing emulation**. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
 ### gbc
 - #### ez-flash junior (**reccomended**)
     - 3x cheaper than the everdrive gb x7, albiet wtih an inferior physical build quality.
@@ -78,5 +77,6 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
     - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
 ### gba
+- **gba flash carts cannot be used to play gbc games without utilizing emulation**. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
 - #### ez-flash omega definitive edition (**highly reccomended 👑**)
       
