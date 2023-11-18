@@ -150,7 +150,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
  
 # alternative methods of re-syncing in-game time
 ### preface
-i personally wouldn't recommend using these methods as they're pretty hands on, or likely to be considered cheating (rom hacks). that being said, everyone's definition of cheating is different. many would consider playing anything but authentic carts cheating, or perhaps even just the act of playing on the analogue pocket.
+i personally wouldn't recommend using these methods as they're pretty hands on, or require rom hacks. it is much more intuitive, and feels closer to the intended experience to use flash carts (when it comes to rtc).
 ### methods
 - gen 2
     - [in-game exploit](https://www.youtube.com/watch?v=Vupz6vwylGM&t)
