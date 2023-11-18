@@ -180,7 +180,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 - [ez-Flash omega de mode b / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
 - [replace batteries in flash carts](https://gbatemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
-- [mod 3ds family systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
+- [mod 2/3ds systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
 
 # frequently asked questions
 ### why don't you recommend the everdrive gb x7 for use with the analogue pocket?
