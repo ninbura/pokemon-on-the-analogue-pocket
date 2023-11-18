@@ -166,7 +166,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
 ### question 3
 - question - why can't the ez-flash junior, everdrive gb x7, and everdrive gba mini interface with specialized nintendo hardware/software (game pak, pal park, etc)?
-- answer - because these flash carts launch to a menu in-which you first have to select a rom to interact with it. the bennvenn only ever has one game flashed at time, and the omega de has the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software.
+- answer - because these flash carts launch to a menu in-which you first have to select a rom to interact with it. the bennvenn only ever has one game flashed at time. likewise, the omega de has the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
 ### question 4 
 - question - why can't most flash carts utilize the analogue pocket's sleep functionality?
 - answer - similarly to my previous answer, only carts that offer a standalone game mode can utilize the analogue pocket's sleep functionality. this is because this sleep functionality is really a save state *for a specific game* in disguise. when you sleep your analogue pocket a save state is stored, when you wake your analogue pocket it attempts to load that save state. if you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
