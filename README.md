@@ -157,7 +157,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 # faq
 ### question 1
 - question - why don't you recommend the everdrive gb x7 for use with the analogue pocket?
-- answer - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue.
+- answer - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue. it is also vastly more expensive than the ez-flash junior, while being less functional in relation to the pocket, as previously mentioned.
 ### question 2
 - question - why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2
 - answer - pokemon stadium 1&2 provide these unique benefits
