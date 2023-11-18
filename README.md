@@ -161,7 +161,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
       - [load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/)
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
 
-# additional product links
+# product links
 - [ez-flash junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
 - [everdrive gb x7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=everdrive+gb+x7&qid=1700286142&sprefix=everdrive+gb+%2Caps%2C138&sr=8-1)
 - [bennvenn mbc3000 v4](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4?variant=40095079202919)
