@@ -76,7 +76,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - time is permanently desynced like the everdrive gb x7 when save states are loaded.
     - unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
     - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
-### gba
+## gba
 - **gba flash carts cannot be used to play gbc games without utilizing emulation**. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
 - #### ez-flash omega definitive edition (**highly reccomended 👑**)
       
