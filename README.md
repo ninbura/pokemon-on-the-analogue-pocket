@@ -10,7 +10,7 @@
         - [ez-flash junior (recommended)](#ez-flash-junior-recommended)
         - [everdrive gb x7 (not recommended)](#everdrive-gb-x7-not-recommended)
         - [bennvenn mbc3000 v4 (recommended for use with the n64 game pak)](#bennvenn-mbc3000-v4-recommended-for-use-with-the-n64-game-pak)
-    - [game boy advanced](#ame-boy-advanced)
+    - [game boy advanced](#game-boy-advanced)
         - [ez-flash omega definitive edition (highly recommended 👑)](#ez-flash-omega-definitive-edition-highly-recommended-) 
         - [everdrive gba mini x5 (recommended)](#everdrive-gba-mini-x5-recommended)
     - [micro sd cards](#micro-sd-cards)
