@@ -152,7 +152,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 # relevant guides
 - [pocket sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
 - [ez-flash junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card)
-- [ez-flash omega de](https://www.youtube.com/watch?v=CBPoAjBfV0M&t=651s)
+- [ez-flash omega de](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
 - [ez-Flash omega de mode b / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
 - [replace batteries in flash carts](https://gbatemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
