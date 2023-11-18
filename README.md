@@ -8,7 +8,7 @@ it's pretty complicated... but from my understanding, an encoded start time stam
 
 # play methods & pros/cons
 there are three methods of playing pokemon on the analogue pocket. tldr; flash carts are currently superior for playing pokemon games that utilize rtc.
-### 1. authentic cartridges
+1. #### authentic cartridges
     - pros
         - time is tracked while you aren't playing the game
         - sleep/save states are partially functional
@@ -23,7 +23,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
         - cartridge battery replacement requires soldering
         - additional hardware is required to backup save data
-2. ### flash carts
+2. #### flash carts
     - pros
         - much cheaper than authentic carts in the grand scheme of things
         - time is tracked while you aren't playing
@@ -41,7 +41,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - additional setup required
         - save files are easily accessible for backup
         - rtc relies on internal batteries that eventually die 
-3. ### 3rd party cores
+3. #### 3rd party cores
     - pros
         - free
         - sleep/save states are partially functional
