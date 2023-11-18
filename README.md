@@ -4,7 +4,7 @@
 pokemon games are unique due to their utilization of real-time clock, aka rtc. rtc keeps track of time while you aren't playing pokemon games, essentially it syncs in-game time with real-time. in-game events such as pokemon catchability, access ot the move tutor, kurt's apricorn pokeballs, certain pokemon evolutions, berry growth, lotteries, secret Base battles, etc. depend on rtc. this causes complications depending on what method you're using to play pokemon games on the analogue pocket. bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/rtc effects in each generation of pokemon. generation 2 is much more dependant on rtc than generation 3, but it's important enough in both generations that i wouldn't consider playing without functional rtc.
 
 # quick explanation of the rtc mechanism
-it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock. **because rtc data is stored within a game's save data, analogue could technically push a fix for this in the future.** by ripping the save data from the cart, modifying the save data, and loading a state with correct rtc data. but i wouldn't your breath.
+it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock. **because rtc data is stored within a game's save data, analogue could technically push a fix for this in the future.*- by ripping the save data from the cart, modifying the save data, and loading a state with correct rtc data. but i wouldn't your breath.
 
 # play methods & pros/cons
 there are three methods of playing pokemon on the analogue pocket. tldr; flash carts are currently superior for playing pokemon games that utilize rtc.
@@ -27,17 +27,17 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - pros
         - much cheaper than authentic carts in the grand scheme of things
         - time is tracked while you aren't playing
-        - **gbc carts** - save states are partially functional
-        - **gba carts** - save states are fully functional
-        - **gba carts** - time is recalculated when sleep/save states are loaded (always in-sync)
-        - **ez-flash junior** - in-game clock can be reset via modification of cart's internal clock
-        - **ez-flash omega de** - compatible with analogue pocket's sleep feature
+        - **gbc carts*- - save states are partially functional
+        - **gba carts*- - save states are fully functional
+        - **gba carts*- - time is recalculated when sleep/save states are loaded (always in-sync)
+        - **ez-flash junior*- - in-game clock can be reset via modification of cart's internal clock
+        - **ez-flash omega de*- - compatible with analogue pocket's sleep feature
         - easy to replace internal batteries
     - cons
         - costs money
-        - **everdrive gba mini x5 & gbc carts** - incompatible with analogue pocket's sleep feature
-        - **everdrive gb x7** - time is ireversably desynced when save states are loaded without mods/exploits
-        - **gbc carts** - time is not recalculated when save states are loaded (desync)
+        - **everdrive gba mini x5 & gbc carts*- - incompatible with analogue pocket's sleep feature
+        - **everdrive gb x7*- - time is ireversably desynced when save states are loaded without mods/exploits
+        - **gbc carts*- - time is not recalculated when save states are loaded (desync)
         - additional setup required
         - save files are easily accessible for backup
         - rtc relies on internal batteries that eventually die 
@@ -129,15 +129,31 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 # interfacing with pokemon home
 - gen 1&2
    - backup your save file
-   * [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
-   * from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go)
-* Gen 3
-   * method 1 (authentic carts & ez-flash omega de only)
-      * ff you're using the ez-flash omega de the game must be running in mode b
-      * [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
-      * from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
-   * method 2
-      * backup your gen 3 save file
-      * [use desume to emulate Pal Park transfer](https://www.youtube.com/watch?v=o0RkljY3UMw) using your save file
-      * [load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/)
-      * from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go)
+   - [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
+   - from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go)
+- Gen 3
+   - method 1 (authentic carts & ez-flash omega de only)
+      - ff you're using the ez-flash omega de the game must be running in mode b
+      - [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
+      - from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
+   - method 2
+      - backup your gen 3 save file
+      - [use desume to emulate Pal Park transfer](https://www.youtube.com/watch?v=o0RkljY3UMw) using your save file
+      - [load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/)
+      - from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go)
+
+# Product Links
+- [ez-flash junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
+- [ez-flash omega de](https://www.amazon.com/EZ-Flash-Definitive-EZFlash-Geddes/dp/B09SFQK82G/ref=sr_1_2?crid=1W8G08L2V0N23&keywords=ez+flash+omega+definitive+edition&qid=1677688892&sprefix=ez+flash+omega%2Caps%2C279&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
+- [micro sd card](https://www.amazon.com/SanDisk-Extreme-Mobile-Gaming-microSD/dp/B089M5KV4Y/ref=sr_1_3?crid=33MHX2NLAUG4C&keywords=SanDisk+32GB+Extreme+micro+sd&qid=1696957444&s=electronics&sprefix=sandisk+32gb+extreme+micro+s%2Celectronics%2C123&sr=1-3)
+- [ez-flash junior battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (cr1220)
+- [ez-flash omega de battery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (cr1025)
+
+# relevant guides
+- [pocket sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
+- [ez-flash junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use the exact firmware I listed above)
+- [ez-flash omega de](https://www.youtube.com/watch?v=CBPoAjBfV0M&t=651s)
+- [ez-Flash omega de mode b / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
+- [replace batteries in flash carts](https://gbatemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
+- [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
+- [mod 3ds family systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
