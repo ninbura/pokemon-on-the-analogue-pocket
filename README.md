@@ -9,13 +9,13 @@ it's pretty complicated... but from my understanding, an encoded start time stam
 # play methods & their pros/cons
 there is currently 3 methods of playing pokemon games on the analogue pocket
   1. authentic cartridges
-                  - pros
-                      - time is tracked while you aren't playing the game
-                      - sleep/save states are partially functional
-                      - display modes are supported
-                      - no setup required
-                      - interfaces with official nintendo hardware/software (n64 game pak, pal park, etc.)
-                      - karts r kool
+    - pros
+      - time is tracked while you aren't playing the game
+      - sleep/save states are partially functional
+      - display modes are supported
+      - no setup required
+      - interfaces with official nintendo hardware/software (n64 game pak, pal park, etc.)
+      - karts r kool
     - cons
       - extremely expensive
       - time is not re-calculated when sleep/save states are loaded
