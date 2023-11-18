@@ -99,7 +99,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - everdrive gb x7
     - everdrive gba mini
     - ez-flash omega de
-    - *note that cards >32 must be formatted as exfat*
+    - *note that cards >32gb must be formatted as exfat*
 - it is my recommendation that you use 32gb cards for everything to make things simple, realistically you'll never fill 32gb with gb/gbc/gba roms.
 - as mentioned above the ez-flash junior specifically requires a fast micro sd card to function, the others will benefit from a fast micro sd card as well.
 - i recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
