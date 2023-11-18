@@ -19,7 +19,7 @@
 - [product links](#product-links)
 - [frequently asked questions](#frequently-asked-questions)
     - [why don't you recommend the everdrive gb x7 for use with the analogue pocket?](#why-dont-you-recommend-the-everdrive-gb-x7-for-use-with-the-analogue-pocket)
-    - [why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2](#why-do-i-want-to-interface-my-gen-12-games-with-the-n64-transfer-pack--pokemon-stadium-12)
+    - [why do i want to interface my gen 1/2 games with the n64 transfer pack / pokemon stadium 1&2](#why-do-i-want-to-interface-my-gen-12-games-with-the-n64-transfer-pack--pokemon-stadium-12)
     - [why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?](#why-cant-most-flash-carts-interface-with-specialized-nintendo-hardwaresoftware-game-pak-pal-park-etc)
     - [why can't most flash carts utilize the analogue pocket's sleep functionality?](#why-cant-most-flash-carts-utilize-the-analogue-pockets-sleep-functionality)
 
