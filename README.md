@@ -1,4 +1,4 @@
-# definitive guide to playhing pokemon on the analogue pocket
+# definitive guide to playing pokemon on the analogue pocket
 - [introduction](#introduction)
 - [explanation of the rtc mechanism](#explanation-of-the-rtc-mechanism)
 - [play methods & pros/cons](#play-methods--proscons)
