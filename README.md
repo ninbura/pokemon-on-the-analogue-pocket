@@ -146,8 +146,8 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - Emerald -> EZ-Flash Omega DE
  
 # alternative methods of re-syncing in-game time
-### summary
-i personally wouldn't recommend using these methods as they're pretty hands on, or likely to be considered cheating (rom hacks). that being said, everyone's definition of cheating is different. many would consider playing anything but authentic carts cheating, or perhaps even just playing on the analogue pocket.
+### preface
+i personally wouldn't recommend using these methods as they're pretty hands on, or likely to be considered cheating (rom hacks). that being said, everyone's definition of cheating is different. many would consider playing anything but authentic carts cheating, or perhaps even just the act of playing on the analogue pocket.
 ### methods
 - gen 2
     - [in-game exploit](https://www.youtube.com/watch?v=Vupz6vwylGM&t)
