@@ -17,12 +17,12 @@ there is currently 3 methods of playing pokemon games on the analogue pocket
       - interfaces with official nintendo hardware/software (n64 game pak, pal park, etc.)
       - karts r kool
     - cons
-        - extremely expensive
-        - time is not re-calculated when sleep/save states are loaded
-        - gen 2 cartridge save data is lost when the cart's internal battery dies
-        - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
-        - cartridge battery replacement requires soldering
-        - additional hardware is required to backup save data
+      - extremely expensive
+      - time is not re-calculated when sleep/save states are loaded
+      - gen 2 cartridge save data is lost when the cart's internal battery dies
+      - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
+      - cartridge battery replacement requires soldering
+      - additional hardware is required to backup save data
   2. flash carts
     - pros
       - much cheaper than authentic carts in the grand scheme of things
