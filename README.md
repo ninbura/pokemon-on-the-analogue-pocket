@@ -91,7 +91,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
 - #### [everdrive gba mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=everdrive+gba+mini&qid=1700285313&sprefix=everdrive+gba+mini%2Caps%2C122&sr=8-1) (**recommended**)
     - 40% more expensive than the ez-flash omega de with similar build quality and *less features*
     - not compatible with stand alone cart functions, like the analogue pocket's sleep functionality, or pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
-### micro sd card nuance
+### micro sd cards
 - ez-flash & everdrive carts utilize micro sd cards
 - both cart manufacturers state that <=32gb must be formatted as fat32
 - specificallly ez-flash asks that you use a 32KB allocation size
