@@ -129,7 +129,9 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - everdrive gb x7
     - everdrive gba mini
     - ez-flash omega de
-    - *note that cards >32gb must be formatted as exfat*
+    - *note that*
+        - everdrive requires that cards >32gb remain formatted as fat32. on microsoft windows, this requires a [special tool](http://ridgecrop.co.uk/index.htm?guiformat.htm).
+        - the omega de requires that cards >32gb must be formatted as exfat
 - it is my recommendation that you use 32gb cards for everything to make things simple, realistically you'll never fill 32gb with gb/gbc/gba roms.
 - as mentioned above the ez-flash junior specifically requires a fast micro sd card to function, the others will benefit from a fast micro sd card as well.
 - i recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
@@ -166,7 +168,7 @@ i personally wouldn't recommend using these methods as they're pretty hands on, 
    - backup your save file
    - [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
    - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
-- Gen 3
+- gen 3
    - method 1 (authentic carts & ez-flash omega de only)
       - ff you're using the ez-flash omega de the game must be running in mode b
       - [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
