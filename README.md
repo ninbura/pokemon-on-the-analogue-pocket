@@ -8,44 +8,44 @@ it's pretty complicated... but from my understanding, an encoded start time stam
 
 # play methods & their pros/cons
 1. authentic cartridges
-  - pros
-    - time is tracked while you aren't playing the game
-    - sleep/save states are partially functional
-    - display modes are supported
-    - no setup required
-    - interfaces with official nintendo hardware/software (n64 game pak, pal park, etc.)
-    - karts r kool
-  - cons
-    - extremely expensive
-    - time is not re-calculated when sleep/save states are loaded
-    - gen 2 cartridge save data is lost when the cart's internal battery dies
-    - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
-    - cartridge battery replacement requires soldering
-    - additional hardware is required to backup save data
+    - pros
+      - time is tracked while you aren't playing the game
+      - sleep/save states are partially functional
+      - display modes are supported
+      - no setup required
+      - interfaces with official nintendo hardware/software (n64 game pak, pal park, etc.)
+      - karts r kool
+    - cons
+      - extremely expensive
+      - time is not re-calculated when sleep/save states are loaded
+      - gen 2 cartridge save data is lost when the cart's internal battery dies
+      - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
+      - cartridge battery replacement requires soldering
+      - additional hardware is required to backup save data
 2. flash carts
-  - pros
-    - much cheaper than authentic carts in the grand scheme of things
-    - time is tracked while you aren't playing
-    - **gbc carts** - save states are partially functional
-    - **gba carts** - save states are fully functional
-    - **EZ-Flash Omega DE** - compatible with analogue pockets sleep feature
-    - **gba carts** - time is recalculated when sleep/save states are loaded
-    - easy to replace internal batteries
-  - cons
-    - costs money
-    - **everdrive gba mini & gbc carts** - incompatible with analogue pocket's sleep feature
-    - **gbc carts** - time is not recalculated when sleep/save states are loaded
-    - additional setup required
-    - save files are easily accessible for backup
-    - rtc relies on internal batteries that eventually die 
+    - pros
+      - much cheaper than authentic carts in the grand scheme of things
+      - time is tracked while you aren't playing
+      - **gbc carts** - save states are partially functional
+      - **gba carts** - save states are fully functional
+      - **EZ-Flash Omega DE** - compatible with analogue pockets sleep feature
+      - **gba carts** - time is recalculated when sleep/save states are loaded
+      - easy to replace internal batteries
+    - cons
+      - costs money
+      - **everdrive gba mini & gbc carts** - incompatible with analogue pocket's sleep feature
+      - **gbc carts** - time is not recalculated when sleep/save states are loaded
+      - additional setup required
+      - save files are easily accessible for backup
+      - rtc relies on internal batteries that eventually die 
 3. 3rd party cores
-  - pros
-    - free
-    - sleep/save states are partially functional
-    - save files are easily accesible for backup
-    - save data & rtc functionality is not dependant on finite life of a non-rechargable battery
-    - additional setup required 
-  - cons
-    - time is only tracked when playing the game
-    - time is not re-calculated when sleep/save states are loaded
-    - display modes are not supported (but should be by the end of 2023)
+    - pros
+      - free
+      - sleep/save states are partially functional
+      - save files are easily accesible for backup
+      - save data & rtc functionality is not dependant on finite life of a non-rechargable battery
+      - additional setup required 
+    - cons
+      - time is only tracked when playing the game
+      - time is not re-calculated when sleep/save states are loaded
+      - display modes are not supported (but should be by the end of 2023)
