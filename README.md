@@ -88,4 +88,6 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
 - #### [everdrive gba mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=everdrive+gba+mini&qid=1700285313&sprefix=everdrive+gba+mini%2Caps%2C122&sr=8-1) (**recommended**)
     - 40% more expensive than the ez-flash omega de with similar build quality and *less features*
     - not compatible with stand alone cart functions, like the analogue pocket's sleep functionality, or pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
+### conclusion
+the best combination of carts for use with the analogue pocket is the ez-flash junior + the bennvenn mbc300 + the ez-flash omega de. why? because this gives you the most compatibility with the analogue pockets sleep/save state functions, and official nintendo hardware/software (n64 game pak, pal park, etc). the ez-flash junior & bennvenn mbc3000 is kind of a wombo combo, as you can fix time sync via the junior, and interface with the n64 game pak / pokemon stadium via the mbc3000.
     
