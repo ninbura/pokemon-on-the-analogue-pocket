@@ -183,9 +183,9 @@ in-game time desyncs when a save state is loaded while using the everdrive gb x7
 
 ### why do i want to interface my gen 1&2 games with the n64 transfer pack / pokemon stadium 1&2
 pokemon stadium 1&2 provide these unique benefits
-    - much easier pokemon box orginzation
-    - much faster / bulk transfer of pokemon between games
-    - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
+- much easier pokemon box orginzation
+- much faster / bulk transfer of pokemon between games
+- [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
     
 ### why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?
 because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the bennvenn only ever has one game flashed at time. likewise, the omega de has the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
