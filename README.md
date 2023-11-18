@@ -78,7 +78,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
 ### gba
 - gba flash carts cannot be used to play gbc games without utilizing emulation. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
-- #### ez-flash omega definitive edition (**highly recommended 👑**)
+- #### [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the everdrive gba mini x5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [mode b / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
         - allows for operation like the bennvenn mbc3000 v4, making the receiving console believe that only one game is flashed to the cart.
