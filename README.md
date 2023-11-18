@@ -155,9 +155,10 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 - [mod 3ds family systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
 
 # faq
+### question 1
 - q - why don't you reccomend the everdrive gb x7 for use with the analogue pocket?
 - a - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue.
-
+### question 2
 - q - why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2
 - a - pokemon stadium 1&2 provide these unique benefits
     - much easier pokemon box orginzation
