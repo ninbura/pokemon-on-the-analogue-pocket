@@ -124,16 +124,16 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 
 # interfacing with pokemon home
 - gen 1&2
-   - backup your save file.
+   - backup your save file
    * [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
-   * From there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
+   * from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go)
 * Gen 3
    * method 1 (Authentic carts & EZ-Flash Omega DE only)
-      * If you're using the EZ-Flash Omega DE the game must be running in Mode B.
-      * [Use a Nintendo DS + Pal Park to trade Pokémon from Gen 3 to Gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
-      * From there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
+      * ff you're using the ez-flash omega de the game must be running in mode b
+      * [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
+      * from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
    * method 2
-      * Backup your gen 3 save file.
-      * [Use DeSuME to emulate Pal Park transfer](https://www.youtube.com/watch?v=o0RkljY3UMw) using your save file.
-      * [Load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/) (see relevant guides below).
-      * From there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
+      * backup your gen 3 save file
+      * [use desume to emulate Pal Park transfer](https://www.youtube.com/watch?v=o0RkljY3UMw) using your save file
+      * [load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/) (see relevant guides below)
+      * from there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go)
