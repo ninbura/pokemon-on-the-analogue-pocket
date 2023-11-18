@@ -21,6 +21,7 @@
 - [interfacing with pokemon home](#interfacing-with-pokemon-home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
+- [relevant guides](#relevant-guides)
 - [frequently asked questions](#frequently-asked-questions)
     - [why don't you recommend the everdrive gb x7 for use with the analogue pocket?](#why-dont-you-recommend-the-everdrive-gb-x7-for-use-with-the-analogue-pocket)
     - [why do i want to interface my gen 1/2 games with the n64 transfer pack / pokemon stadium 1&2](#why-do-i-want-to-interface-my-gen-12-games-with-the-n64-transfer-pack--pokemon-stadium-12)
