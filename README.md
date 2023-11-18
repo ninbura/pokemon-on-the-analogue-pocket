@@ -7,7 +7,7 @@ pokemon games are unique due to their utilization of real-time clock, aka rtc. r
 it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock.
 
 # play methods & their pros/cons
-- there is currently 3 methods of playing pokemon games on the analogue pocket
+there is currently 3 methods of playing pokemon games on the analogue pocket
   1. authentic cartridges
     - pros
       - time is tracked while you aren't playing the game
