@@ -78,14 +78,13 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
 ### gba
 - gba flash carts cannot be used to play gbc games without utilizing emulation. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
-- #### ez-flash omega definitive edition (**highly reccomended 👑**)
-    - 40% cheaper than the everdrive gba mini
+- #### ez-flash omega definitive edition (**highly recommended 👑**)
+    - 40% cheaper than the everdrive gba mini with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [mode b / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
         - allows for operation like the bennvenn mbc3000 v4, making the receiving console believe that only one game is flashed to the cart.
         - allows for use of analogue pocket's sleep function
         - can interface with pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer pokemon from gen 3 to gen 4 via a nintendo ds.
-    - time never desyncs with sleep/save states
-- #### [everdrive gba mini](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=everdrive+gba+mini&qid=1700285313&sprefix=everdrive+gba+mini%2Caps%2C122&sr=8-1)
-    - 40% more expensive than the ez-flash omega de
-    - 
+- #### [everdrive gba mini](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=everdrive+gba+mini&qid=1700285313&sprefix=everdrive+gba+mini%2Caps%2C122&sr=8-1) (**recommended**)
+    - 40% more expensive than the ez-flash omega de with similar build quality and *less features*
+    - not compatible with stand alone cart functions, like the analogue pocket's sleep functionality, or pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
     
