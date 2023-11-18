@@ -156,11 +156,17 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 
 # faq
 ### question 1
-- q - why don't you reccomend the everdrive gb x7 for use with the analogue pocket?
-- a - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue.
+- question - why don't you recommend the everdrive gb x7 for use with the analogue pocket?
+- answer - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue.
 ### question 2
-- q - why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2
-- a - pokemon stadium 1&2 provide these unique benefits
+- question - why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2
+- answer - pokemon stadium 1&2 provide these unique benefits
     - much easier pokemon box orginzation
     - much faster / bulk transfer of pokemon between games
     - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
+### question 3
+- question - why can't the ez-flash junior, everdrive gb x7, and everdrive gba mini interface with specialized nintendo hardware/software (game pak, pal park, etc)?
+- answer - because the flash carts launch to a menu in-which you first have to select a rom to interact with it. the bennvenn only ever has one game flashed at time, and the omega de has the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software.
+### question 4 
+- question - why can't most flash carts utilize the analogue pocket's sleep functionality?
+- answer - similarly to my previous answer, only carts that offer a standalone game mode can utilize the analogue pocket's sleep functionality. this is because this sleep functionality is really a save state *for a specific game* in disguise. when you sleep your analogue pocket a save state is stored, when you wake your analogue pocket it attempts to load that save state. if you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
