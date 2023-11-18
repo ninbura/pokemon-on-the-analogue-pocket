@@ -121,10 +121,6 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - Ruby -> EZ-Flash Omega DE
     - Sapphire -> EZ-Flash Omega DE
     - Emerald -> EZ-Flash Omega DE
-- why interface with pokemon stadium?
-    - much easier pokemon box orginzation
-    - much faster / bulk transfer of pokemon between games
-    - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
 
 # interfacing with pokemon home
 - gen 1&2
@@ -157,3 +153,13 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 - [replace batteries in flash carts](https://gbatemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
 - [mod 3ds family systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
+
+# faq
+q - why don't you reccomend the everdrive gb x7 for use with the analogue pocket?
+a - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue.
+
+q - why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2
+a - pokemon stadium 1&2 provide these unique benefits
+    - much easier pokemon box orginzation
+    - much faster / bulk transfer of pokemon between games
+    - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
