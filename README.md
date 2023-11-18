@@ -1,9 +1,32 @@
-# index
+# definitive guide to playhing pokemon on the analogue pocket
+- [introduction](#introduction)
+- [explanation of the rtc mechanism](#explanation-of-the-rtc-mechanism)
+- [play methods & pros/cons](#play-methods--proscons)
+    1. [authenic cartridges](#authentic-cartridges)
+    2. [flash carts](#flash-carts)
+    3. [cores](#cores)
+- [relevant flash carts & surrounding nuance](#relevant-flash-carts--surrounding-nuance)
+    - [game boy color](#game-boy-color)
+        - [ez-flash junior](#ezflash-junior)
+        - [everdrive gb x7](#everdrive-gb-x7)
+        - [bennvenn mbc3000 v4](#bennvenn-mbc3000-v4)
+    - [game boy advanced](#ame-boy-advanced)
+        - [ez-flash omega definitive edition](#ezflash-omega-definitive-editioin)
+        - [everdrive gba mini](#everdrive-gba-mini)
+    - [micro sd cards](#micro-sd-cards)
+- [optimal play method per game](#optimal-play-method-per-game)
+- [interfacing with pokemon home](#interfacing-with-pokemon-home)
+- [product links](#product-links)
+- [frequently asked questions](#frequently-asked-questions)
+    - [why don't you recommend the everdrive gb x7 for use with the analogue pocket?](#why-dont-you-recommend-the-everdrive-gb-x7-for-use-with-the-analogue-pocket)
+    - [why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2](#why-do-i-want-to-interface-my-gen-12-games-with-the-n64-transfer-pack--pokemon-stadium-12)
+    - [why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?](#why-cant-most-flash-carts-interface-with-specialized-nintendo-hardwaresoftware-game-pak-pal-park-etc)
+    - [why can't most flash carts utilize the analogue pocket's sleep functionality?](#why-cant-most-flash-carts-utilize-the-analogue-pockets-sleep-functionality)
 
 # introduction
 pokemon games are unique due to their utilization of real-time clock, aka rtc. rtc keeps track of time while you aren't playing pokemon games, essentially it syncs in-game time with real-time. in-game events such as pokemon catchability, access ot the move tutor, kurt's apricorn pokeballs, certain pokemon evolutions, berry growth, lotteries, secret Base battles, etc. depend on rtc. this causes complications depending on what method you're using to play pokemon games on the analogue pocket. bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/rtc effects in each generation of pokemon. generation 2 is much more dependant on rtc than generation 3, but it's important enough in both generations that i wouldn't consider playing without functional rtc.
 
-# quick explanation of the rtc mechanism
+# explanation of the rtc mechanism
 it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock. **because rtc data is stored within a game's save data, analogue could technically push a fix for this in the future.** by ripping the save data from the cart, modifying the save data, and loading a state with correct rtc data. but i wouldn't your breath.
 
 # play methods & pros/cons
@@ -41,7 +64,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - additional setup required
         - save files are easily accessible for backup
         - rtc relies on internal batteries that eventually die 
-3. #### 3rd party cores
+3. #### cores
     - pros
         - free
         - sleep/save states are partially functional
@@ -57,7 +80,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
 # relevant flash carts & surrounding nuance
 ### summary
 the best combination of carts for use with the analogue pocket is the ez-flash junior, the bennvenn mbc300, and the ez-flash omega de. why? because this gives you the most compatibility with the analogue pockets sleep/save state functions, and official nintendo hardware/software (n64 game pak, pal park, etc). the ez-flash junior & bennvenn mbc3000 is kind of a wombo combo, as you can fix time sync via the junior, and interface with the n64 game pak / pokemon stadium via the mbc3000. simply transfer your save files between the 2 carts. functionality with the n64 game pak is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
-### gbc
+### game boy color
 - #### [ez-flash junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1) (**recommended**)
     - **!!! important !!!**
         - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) is currently required for the junior to function with an analogue pocket
@@ -81,7 +104,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - time is permanently desynced like the everdrive gb x7 when save states are loaded.
     - unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
     - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium.
-### gba
+### game boy advanced
 - gba flash carts cannot be used to play gbc games without utilizing emulation. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
 - #### [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the everdrive gba mini x5 with similar build quality and *more features*
@@ -138,7 +161,7 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
       - [load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/)
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
 
-# Product Links
+# product links
 - [ez-flash junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
 - [ez-flash omega de](https://www.amazon.com/EZ-Flash-Definitive-EZFlash-Geddes/dp/B09SFQK82G/ref=sr_1_2?crid=1W8G08L2V0N23&keywords=ez+flash+omega+definitive+edition&qid=1677688892&sprefix=ez+flash+omega%2Caps%2C279&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
 - [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
@@ -154,19 +177,18 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
 - [mod 3ds family systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
 
-# faq
-### question 1
-- question - why don't you recommend the everdrive gb x7 for use with the analogue pocket?
-- answer - in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue. it is also vastly more expensive than the ez-flash junior, while being less functional in relation to the pocket, as previously mentioned.
-### question 2
-- question - why do i want to interface my gen 2 games with the n64 transfer pack / pokemon stadium 1&2
-- answer - pokemon stadium 1&2 provide these unique benefits
+# frequently asked questions
+### why don't you recommend the everdrive gb x7 for use with the analogue pocket?
+in-game time desyncs when a save state is loaded while using the everdrive gb x7, with little recourse to remedy the issue. it is also vastly more expensive than the ez-flash junior, while being less functional in relation to the pocket, as previously mentioned.
+
+### why do i want to interface my gen 1&2 games with the n64 transfer pack / pokemon stadium 1&2
+pokemon stadium 1&2 provide these unique benefits
     - much easier pokemon box orginzation
     - much faster / bulk transfer of pokemon between games
     - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
-### question 3
-- question - why can't the ez-flash junior, everdrive gb x7, and everdrive gba mini interface with specialized nintendo hardware/software (game pak, pal park, etc)?
-- answer - because these flash carts launch to a menu in-which you first have to select a rom to interact with it. the bennvenn only ever has one game flashed at time. likewise, the omega de has the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
-### question 4 
-- question - why can't most flash carts utilize the analogue pocket's sleep functionality?
-- answer - similarly to my previous answer, only carts that offer a standalone game mode can utilize the analogue pocket's sleep functionality. this is because this sleep functionality is really a save state *for a specific game* in disguise. when you sleep your analogue pocket a save state is stored, when you wake your analogue pocket it attempts to load that save state. if you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
+    
+### why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?
+because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the bennvenn only ever has one game flashed at time. likewise, the omega de has the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
+
+### why can't most flash carts utilize the analogue pocket's sleep functionality?
+similarly to my previous answer, only carts that offer a standalone game mode can utilize the analogue pocket's sleep functionality. this is because this sleep functionality is really a save state *for a specific game* in disguise. when you sleep your analogue pocket a save state is stored, when you wake your analogue pocket it attempts to load that save state. if you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
