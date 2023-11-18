@@ -135,8 +135,8 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - Blue -> GBC Core / bennvenn mbc3000 (stadium 1&2)
     - Green -> GBC Core / bennvenn mbc3000 (stadium 1&2)
     - Yellow -> GBC Core / bennvenn mbc3000 (stadium 1&2)
-    - Fire Red -> GBA Core / bennvenn mbc3000 (stadium 1&2)
-    - Leaf Green -> GBA Core / bennvenn mbc3000 (stadium 1&2)
+    - Fire Red -> GBA Core
+    - Leaf Green -> GBA Core
 - games with rtc
     - Silver -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
     - Gold -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
