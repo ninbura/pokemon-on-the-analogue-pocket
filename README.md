@@ -70,7 +70,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - 3x more expensive than the ez-flash junior, albeit with a superior physical build quality.
     - for whatever reason, the method mentioned above for resetting the in-game time via the ez-flash junior, is not possible via the everdrive gb x7. there is no method of re-syncing in-game time with real time outside of rom hacks / in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
     - incompatible with n64 game pak, and thus pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
-- #### bennvenn mbc3000 v4 (**reccomended in some cases**)
+- #### bennvenn mbc3000 v4 (**reccomended for n64 game pak**)
     - requires bennvenn's joey jr v2++, or something comparable, to flash games to the cartridge.
     - more expensive (including a joey jr v2++) than the ez-flash junior, but less expensive than the everdrive gb x7.
     - time is permanently desynced like the everdrive gb x7 when save states are loaded.
