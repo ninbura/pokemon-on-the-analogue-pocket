@@ -145,13 +145,13 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
 # Product Links
 - [ez-flash junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
 - [ez-flash omega de](https://www.amazon.com/EZ-Flash-Definitive-EZFlash-Geddes/dp/B09SFQK82G/ref=sr_1_2?crid=1W8G08L2V0N23&keywords=ez+flash+omega+definitive+edition&qid=1677688892&sprefix=ez+flash+omega%2Caps%2C279&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
-- [micro sd card](https://www.amazon.com/SanDisk-Extreme-Mobile-Gaming-microSD/dp/B089M5KV4Y/ref=sr_1_3?crid=33MHX2NLAUG4C&keywords=SanDisk+32GB+Extreme+micro+sd&qid=1696957444&s=electronics&sprefix=sandisk+32gb+extreme+micro+s%2Celectronics%2C123&sr=1-3)
+- [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
 - [ez-flash junior battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (cr1220)
 - [ez-flash omega de battery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (cr1025)
 
 # relevant guides
 - [pocket sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
-- [ez-flash junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) & [this sd card](https://www.amazon.com/SanDisk-Extreme-Mobile-Gaming-microSD/dp/B089M5KV4Y/ref=sr_1_3?crid=33MHX2NLAUG4C&keywords=SanDisk+32GB+Extreme+micro+sd&qid=1696957444&s=electronics&sprefix=sandisk+32gb+extreme+micro+s%2Celectronics%2C123&sr=1-3))
+- [ez-flash junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) & [this sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
 - [ez-flash omega de](https://www.youtube.com/watch?v=CBPoAjBfV0M&t=651s)
 - [ez-Flash omega de mode b / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
 - [replace batteries in flash carts](https://gbatemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
