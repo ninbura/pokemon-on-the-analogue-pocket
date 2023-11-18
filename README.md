@@ -57,6 +57,9 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
 # relevant flash carts & surrounding nuance
 ### gbc
 - #### [ez-flash junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1) (**recommended**)
+    - **!!! important !!!**
+        - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) is currently required for the junior to function with an analogue pocket
+        - this unlisted firmware will cause your junior to brick / die if you're not using a [fast enough micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
     - 3x cheaper than the everdrive gb x7, albiet wtih an inferior physical build quality.
     - while time isn't recalculated after loading a save state, the in-game clock can be reset by manipulating the cart's internal clock
         1. set the internal clock 2 years ahead
@@ -88,6 +91,49 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
 - #### [everdrive gba mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=everdrive+gba+mini&qid=1700285313&sprefix=everdrive+gba+mini%2Caps%2C122&sr=8-1) (**recommended**)
     - 40% more expensive than the ez-flash omega de with similar build quality and *less features*
     - not compatible with stand alone cart functions, like the analogue pocket's sleep functionality, or pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
+### micro sd card nuance
+- ez-flash & everdrive carts utilize micro sd cards
+- both cart manufacturers state that <=32gb must be formatted as fat32
+- specificallly ez-flash asks that you use a 32KB allocation size
+- you can technically use cards greater than 32gb with these carts
+    - everdrive gb x7
+    - everdrive gba mini
+    - ez-flash omega de
+    - *note that cards >32 must be formatted as exfat*
+- it is my recommendation that you use 32gb cards for everything to make things simple, realistically you'll never fill 32gb with gb/gbc/gba roms.
+- as mentioned above the ez-flash junior specifically requires a fast micro sd card to function, the others will benefit from a fast micro sd card as well.
+- i recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
 ### conclusion
 the best combination of carts for use with the analogue pocket is the ez-flash junior, the bennvenn mbc300, and the ez-flash omega de. why? because this gives you the most compatibility with the analogue pockets sleep/save state functions, and official nintendo hardware/software (n64 game pak, pal park, etc). the ez-flash junior & bennvenn mbc3000 is kind of a wombo combo, as you can fix time sync via the junior, and interface with the n64 game pak / pokemon stadium via the mbc3000. simply transfer your save files between the 2 carts. functionality with the n64 game pak is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
     
+# optimal play method per game
+- games with no rtc
+    - Red -> GBC Core / bennvenn mbc3000 (stadium 1&2)
+    - Blue -> GBC Core / bennvenn mbc3000 (stadium 1&2)
+    - Green -> GBC Core / bennvenn mbc3000 (stadium 1&2)
+    - Yellow -> GBC Core / bennvenn mbc3000 (stadium 1&2)
+    - Fire Red -> GBA Core / bennvenn mbc3000 (stadium 1&2)
+    - Leaf Green -> GBA Core / bennvenn mbc3000 (stadium 1&2)
+- games with rtc
+    - Silver -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
+    - Gold -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
+    - Crystal -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
+    - Ruby -> EZ-Flash Omega DE
+    - Sapphire -> EZ-Flash Omega DE
+    - Emerald -> EZ-Flash Omega DE
+
+# interfacing with pokemon home
+- gen 1&2
+   - backup your save file.
+   * [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
+   * From there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
+* Gen 3
+   * method 1 (Authentic carts & EZ-Flash Omega DE only)
+      * If you're using the EZ-Flash Omega DE the game must be running in Mode B.
+      * [Use a Nintendo DS + Pal Park to trade Pokémon from Gen 3 to Gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
+      * From there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
+   * method 2
+      * Backup your gen 3 save file.
+      * [Use DeSuME to emulate Pal Park transfer](https://www.youtube.com/watch?v=o0RkljY3UMw) using your save file.
+      * [Load your save file onto an authentic Gen 4 cart using a modded 3DS running checkpoint](https://projectpokemon.org/home/tutorials/save-editing/managing-3ds-saves/using-checkpoint-r25/) (see relevant guides below).
+      * From there follow [this guide](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go).
