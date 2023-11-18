@@ -66,7 +66,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
     - incompatible with n64 game pak, and thus pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
-- #### [everdrive gb x7](https://www.amazon.com/s?k=everdrive+gb+x7&crid=1L2H6CSD8PIKM&sprefix=everdrive+gb+%2Caps%2C138&ref=nb_sb_ss_ts-doa-p_2_13](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=everdrive+gb+x7&qid=1700286142&sprefix=everdrive+gb+%2Caps%2C138&sr=8-1) (**not recommended**)
+- #### [everdrive gb x7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=everdrive+gb+x7&qid=1700286142&sprefix=everdrive+gb+%2Caps%2C138&sr=8-1) (**not recommended**)
     - 3x more expensive than the ez-flash junior, albeit with a superior physical build quality.
     - for whatever reason, the method mentioned above for resetting the in-game time via the ez-flash junior, is not possible via the everdrive gb x7. there is no method of re-syncing in-game time with real time outside of rom hacks / in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
     - incompatible with n64 game pak, and thus pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
