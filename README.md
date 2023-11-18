@@ -65,17 +65,17 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         4. re-sync the internal clock with real time
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
-    - incompatible with n64 game pak, and thus pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
+    - incompatible with n64 game pak, and thus pokemon stadium.
 - #### [everdrive gb x7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=everdrive+gb+x7&qid=1700286142&sprefix=everdrive+gb+%2Caps%2C138&sr=8-1) (**not recommended**)
     - 3x more expensive than the ez-flash junior, albeit with a superior physical build quality.
     - for whatever reason, the method mentioned above for resetting the in-game time via the ez-flash junior, is not possible via the everdrive gb x7. there is no method of re-syncing in-game time with real time outside of rom hacks / in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
-    - incompatible with n64 game pak, and thus pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
+    - incompatible with n64 game pak, and thus pokemon stadium.
 - #### [bennvenn mbc3000 v4](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4?variant=40095079202919) (**recommended for use with the n64 game pak**)
     - requires bennvenn's joey jr v2++, or something comparable, to flash games to the cartridge.
     - more expensive (including a joey jr v2++) than the ez-flash junior, but less expensive than the everdrive gb x7.
     - time is permanently desynced like the everdrive gb x7 when save states are loaded.
     - unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
-    - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium. this is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
+    - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium.
 ### gba
 - gba flash carts cannot be used to play gbc games without utilizing emulation. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
 - #### [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
@@ -89,5 +89,5 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - 40% more expensive than the ez-flash omega de with similar build quality and *less features*
     - not compatible with stand alone cart functions, like the analogue pocket's sleep functionality, or pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
 ### conclusion
-the best combination of carts for use with the analogue pocket is the ez-flash junior, the bennvenn mbc300, and the ez-flash omega de. why? because this gives you the most compatibility with the analogue pockets sleep/save state functions, and official nintendo hardware/software (n64 game pak, pal park, etc). the ez-flash junior & bennvenn mbc3000 is kind of a wombo combo, as you can fix time sync via the junior, and interface with the n64 game pak / pokemon stadium via the mbc3000. simply transfer your save files between the 2 carts.
+the best combination of carts for use with the analogue pocket is the ez-flash junior, the bennvenn mbc300, and the ez-flash omega de. why? because this gives you the most compatibility with the analogue pockets sleep/save state functions, and official nintendo hardware/software (n64 game pak, pal park, etc). the ez-flash junior & bennvenn mbc3000 is kind of a wombo combo, as you can fix time sync via the junior, and interface with the n64 game pak / pokemon stadium via the mbc3000. simply transfer your save files between the 2 carts. functionality with the n64 game pak is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
     
