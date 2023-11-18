@@ -1,6 +1,6 @@
 # definitive guide to playing pokemon on the analogue pocket
 - [introduction](#introduction)
-- [explanation of the rtc mechanism](#explanation-of-the-rtc-mechanism)
+- [rudimentary explanation of the rtc mechanism](#rudimentary-explanation-of-the-rtc-mechanism)
 - [play methods & pros/cons](#play-methods--proscons)
     1. [authenic cartridges](#authentic-cartridges)
     2. [flash carts](#flash-carts)
