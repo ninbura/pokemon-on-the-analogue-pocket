@@ -4,7 +4,7 @@
 pokemon games are unique due to their utilization of real-time clock, aka rtc. rtc keeps track of time while you aren't playing pokemon games, essentially it syncs in-game time with real-time. in-game events such as pokemon catchability, access ot the move tutor, kurt's apricorn pokeballs, certain pokemon evolutions, berry growth, lotteries, secret Base battles, etc. depend on rtc. this causes complications depending on what method you're using to play pokemon games on the analogue pocket. bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/rtc effects in each generation of pokemon. generation 2 is much more dependant on rtc than generation 3, but it's important enough in both generations that i wouldn't consider playing without functional rtc.
 
 # quick explanation of the rtc mechanism
-it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock. **because rtc data is stored within a game's save data, analogue could technically push a fix for this in the future.*- by ripping the save data from the cart, modifying the save data, and loading a state with correct rtc data. but i wouldn't your breath.
+it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock. **because rtc data is stored within a game's save data, analogue could technically push a fix for this in the future.** by ripping the save data from the cart, modifying the save data, and loading a state with correct rtc data. but i wouldn't your breath.
 
 # play methods & pros/cons
 there are three methods of playing pokemon on the analogue pocket. tldr; flash carts are currently superior for playing pokemon games that utilize rtc.
@@ -27,17 +27,17 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - pros
         - much cheaper than authentic carts in the grand scheme of things
         - time is tracked while you aren't playing
-        - **gbc carts*- - save states are partially functional
-        - **gba carts*- - save states are fully functional
-        - **gba carts*- - time is recalculated when sleep/save states are loaded (always in-sync)
-        - **ez-flash junior*- - in-game clock can be reset via modification of cart's internal clock
-        - **ez-flash omega de*- - compatible with analogue pocket's sleep feature
+        - **gbc carts** - save states are partially functional
+        - **gba carts** - save states are fully functional
+        - **gba carts** - time is recalculated when sleep/save states are loaded (always in-sync)
+        - **ez-flash junior** - in-game clock can be reset via modification of cart's internal clock
+        - **ez-flash omega de** - compatible with analogue pocket's sleep feature
         - easy to replace internal batteries
     - cons
         - costs money
-        - **everdrive gba mini x5 & gbc carts*- - incompatible with analogue pocket's sleep feature
-        - **everdrive gb x7*- - time is ireversably desynced when save states are loaded without mods/exploits
-        - **gbc carts*- - time is not recalculated when save states are loaded (desync)
+        - **everdrive gba mini x5 & gbc carts** - incompatible with analogue pocket's sleep feature
+        - **everdrive gb x7** - time is ireversably desynced when save states are loaded without mods/exploits
+        - **gbc carts** - time is not recalculated when save states are loaded (desync)
         - additional setup required
         - save files are easily accessible for backup
         - rtc relies on internal batteries that eventually die 
