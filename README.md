@@ -81,6 +81,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
 - #### [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the everdrive gba mini x5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [mode b / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
+        - *please note that mode b is not compatible with the latest analogue pocket firmware, but ez-flash is working on a fix.*
         - allows for operation like the bennvenn mbc3000 v4, making the receiving console believe that only one game is flashed to the cart.
         - allows for use of analogue pocket's sleep function
         - can interface with pokemon [pal park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer pokemon from gen 3 to gen 4 via a nintendo ds.
