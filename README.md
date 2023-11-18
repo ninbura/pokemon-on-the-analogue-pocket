@@ -134,19 +134,19 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     
 # optimal play method per game
 - games with no rtc
-    - Red -> GBC Core / bennvenn mbc3000 (stadium 1&2)
-    - Blue -> GBC Core / bennvenn mbc3000 (stadium 1&2)
-    - Green -> GBC Core / bennvenn mbc3000 (stadium 1&2)
-    - Yellow -> GBC Core / bennvenn mbc3000 (stadium 1&2)
-    - Fire Red -> GBA Core
-    - Leaf Green -> GBA Core
+    - red -> gbc core / bennvenn mbc3000 (stadium 1&2)
+    - blue -> gbc core / bennvenn mbc3000 (stadium 1&2)
+    - green -> gbc core / bennvenn mbc3000 (stadium 1&2)
+    - yellow -> gbc core / bennvenn mbc3000 (stadium 1&2)
+    - fire red -> gba core
+    - leaf green -> gba core
 - games with rtc
-    - Silver -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
-    - Gold -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
-    - Crystal -> EZ-Flash Jr. / bennvenn mbc3000 (stadium 1&2)
-    - Ruby -> EZ-Flash Omega DE
-    - Sapphire -> EZ-Flash Omega DE
-    - Emerald -> EZ-Flash Omega DE
+    - silver -> ez-flash junior / bennvenn mbc3000 (stadium 1&2)
+    - gold -> ez-flash junior / bennvenn mbc3000 (stadium 1&2)
+    - crystal -> ez-flash junior / bennvenn mbc3000 (stadium 1&2)
+    - ruby -> ez-flash omega de
+    - sapphire -> ez-flash omega de
+    - emerald -> ez-flash omega de
  
 # alternative methods of re-syncing in-game time
 ### preface
@@ -181,18 +181,20 @@ i personally wouldn't recommend using these methods as they're pretty hands on, 
 - [bennvenn mbc3000 v4](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4?variant=40095079202919)
 - [bennvenn joey jr v2++](https://bennvenn.myshopify.com/products/usb-gb-c-cart-dumper-the-joey-jr)
 - [benvenn mbc3000 v4 + joey jr v2++ bundle](https://bennvenn.myshopify.com/products/mbc3k-joey-bundle?variant=40037766135911) ($10 discount when bundled)
-- [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
+- [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-gba-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
 - [everdrive gba mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=everdrive+gba+mini&qid=1700285313&sprefix=everdrive+gba+mini%2Caps%2C122&sr=8-1)
 - [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
 - [ez-flash junior, everdrive gb x7, bennvenn mbc3000 v4, & everdrive gba mini battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (cr1220)
 - [ez-flash omega de battery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (cr1025)
 
-# cores / firmware / software
-- [pocket sync](https://github.com/neil-morrison44/pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/pocket-sync))
-- [ez-flash jr. firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
-- [everdrive gb x7 firmware](https://krikzz.com/pub/support/everdrive-gb/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
-- [ez-flash omega de firmware](https://www.ezflash.cn/download/) ([guide](https://www.ezflash.cn/omegade-en.pdf#page=10))
-- [everdrive gba mini firmware](https://krikzz.com/pub/support/everdrive-gba/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
+# cores / software / firmware
+- cores/software
+    - [pocket sync](https://github.com/neil-morrison44/pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/pocket-sync))
+- firmware
+    - [ez-flash junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
+    - [everdrive gb x7](https://krikzz.com/pub/support/everdrive-gb/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
+    - [ez-flash omega de](https://www.ezflash.cn/download/) ([guide](https://www.ezflash.cn/omegade-en.pdf#page=10))
+    - [everdrive gba mini](https://krikzz.com/pub/support/everdrive-gba/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
 
 # relevant guides
 - [pocket sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
