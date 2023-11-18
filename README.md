@@ -208,6 +208,7 @@ i personally wouldn't recommend using these methods as they're pretty hands on, 
 - [ez-flash omega de manual](https://www.ezflash.cn/omegade-en.pdf)
 - [ez-flash omega de](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
 - [ez-Flash omega de mode b / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
+- [everdrive gba mini](https://www.youtube.com/watch?v=epLif4ju4F0)
 - [replace batteries in flash carts](https://gbatemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
 - [mod 2/3ds systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
