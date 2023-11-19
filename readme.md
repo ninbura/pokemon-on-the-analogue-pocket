@@ -60,6 +60,7 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - **gba carts** - time is recalculated when sleep/save states are loaded (always in-sync)
         - **ez-flash junior** - in-game clock can be reset via modification of cart's internal clock
         - **ez-flash omega de** - compatible with analogue pocket's sleep feature
+        - save files are easily accessible for backup
         - easy to replace internal batteries
     - cons
         - costs money
@@ -67,7 +68,6 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - **everdrive gb x7** - time is ireversably desynced when save states are loaded without mods/exploits
         - **gbc carts** - time is not recalculated when save states are loaded (desync)
         - additional setup required
-        - save files are easily accessible for backup
         - rtc relies on internal batteries that eventually die 
 3. #### cores
     - pros
@@ -129,9 +129,9 @@ the best combination of carts for use with the analogue pocket is the ez-flash j
     - everdrive gb x7
     - everdrive gba mini
     - ez-flash omega de
-    - *note that*
-        - everdrive requires that cards >32gb remain formatted as fat32. on microsoft windows, this requires a [special tool](http://ridgecrop.co.uk/index.htm?guiformat.htm).
-        - the omega de requires that cards >32gb must be formatted as exfat
+- *note that*
+    - everdrive requires that cards >32gb remain formatted as fat32. on microsoft windows, this requires a [special tool](http://ridgecrop.co.uk/index.htm?guiformat.htm).
+    - the omega de requires that cards >32gb must be formatted as exfat
 - it is my recommendation that you use 32gb cards for everything to make things simple, realistically you'll never fill 32gb with gb/gbc/gba roms.
 - as mentioned above the ez-flash junior specifically requires a fast micro sd card to function, the others will benefit from a fast micro sd card as well.
 - i recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
