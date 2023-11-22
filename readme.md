@@ -170,8 +170,8 @@ i personally wouldn't recommend using these methods as they're pretty hands on, 
    - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
 - gen 3
    - method 1 (authentic carts & ez-flash omega de only)
-      - ff you're using the ez-flash omega de the game must be running in mode b
-      - [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4.](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
+      - if you're using the ez-flash omega de the game must be running in mode b
+      - [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
    - method 2
       - backup your gen 3 save file
