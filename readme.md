@@ -12,7 +12,7 @@
         - [EverDrive GB X7 (not recommended)](#EverDrive-GB-X7-not-recommended)
         - [BennVenn mbc3000 v4 (recommended for use with the N64 Game Pak)](#BennVenn-MBC3000-v4-recommended-for-use-with-the-N64-Game-Pak)
     - [Game Boy Advanced](#Game-Boy-Advanced)
-        - [EZ-Flash Omega DEfinitive Edition (highly recommended 👑)](#EZ-Flash-Omega-Definitive-Edition-highly-recommended) 
+        - [EZ-Flash Omega Definitive Edition (highly recommended 👑)](#EZ-Flash-Omega-Definitive-Edition-highly-recommended) 
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-sd-cards)
 - [manually resetting RTC data](#manually-resetting-RTC-data)
@@ -148,10 +148,10 @@ There are three methods of playing pokemon on the Analogue pocket.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 ### Game Boy Advanced
 - GBA flash carts cannot be used to play GBC games without utilizing emulation. This defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
-- #### [EZ-Flash Omega DEfinitive Edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
+- #### [EZ-Flash Omega Definitive Edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the EverDrive GBA Mini x5 with similar build quality and *more features*
-    - a physical switch on the outside of the cart allows you to enter [mode b / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
-        - *please note that mode b is not compatible with the latest analogue pocket firmware, but ez-flash is working on a fix.*
+    - a physical switch on the outside of the cart allows you to enter [Mode B / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
+        - *please note that Mode B is not compatible with the latest analogue pocket firmware, but ez-flash is working on a fix.*
         - compatible with Analogue Pocket's sleep function in "standalone mode"
         - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
 - #### [EverDrive GBA Mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=EverDrive+GBA+Mini&qid=1700285313&sprefix=EverDrive+GBA+Mini%2Caps%2C122&sr=8-1) (**recommended**)
@@ -187,8 +187,8 @@ There are three methods of playing pokemon on the Analogue pocket.
    - [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
    - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
 - gen 3
-   - method 1 (authentic carts & EZ-Flash Omega DEonly)
-      - if you're using the EZ-Flash Omega DEthe game must be running in mode b
+   - method 1 (authentic carts & EZ-Flash Omega DE only)
+      - if you're using the EZ-Flash Omega DE the game must be running in Mode B
       - [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
    - method 2
@@ -200,14 +200,13 @@ There are three methods of playing pokemon on the Analogue pocket.
 # product links
 - [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
 - [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
-- [BennVenn mbc3000 v4](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v4?variant=40095079202919)
-- [BennVenn Joey Jr v2++](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
-- [BennVenn MBC3000 + Joey Jr bundle](https://BennVenn.myshopify.com/products/mbc3k-joey-bundle?variant=40037766135911) ($10 discount when bundled)
-- [EZ-Flash Omega DEfinitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
+- [BennVenn MBC3000]([https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v4?variant=40095079202919](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5))
+- [BennVenn Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
+- [EZ-Flash Omega Definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
 - [EverDrive GBA Mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=EverDrive+GBA+Mini&qid=1700285313&sprefix=EverDrive+GBA+Mini%2Caps%2C122&sr=8-1)
 - [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
-- [EZ-Flash Junior, EverDrive GB X7, BennVenn mbc3000 v4, & EverDrive GBA Mini battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (cr1220)
-- [EZ-Flash Omega DEbattery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (cr1025)
+- [EZ-Flash Junior, EverDrive GB X7, BennVenn mbc3000, & EverDrive GBA Mini battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (cr1220)
+- [EZ-Flash Omega DE battery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (cr1025)
 
 # cores / software / firmware
 - cores/software
@@ -226,9 +225,9 @@ There are three methods of playing pokemon on the Analogue pocket.
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - BennVenn mbc3000 v4 (basically just a normal cart | see Joey Jr guide below for usage)
 - [BennVenn Joey Jr v2++](https://BennVenn.myshopify.com/pages/the-joey-junior-GB-GBc-GBA-cart-dumper-and-flasher)
-- [EZ-Flash Omega DEmanual](https://www.ezflash.cn/omegade-en.pdf)
+- [EZ-Flash Omega DE manual](https://www.ezflash.cn/omegade-en.pdf)
 - [EZ-Flash Omega DE](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
-- [EZ-Flash Omega DEmode b / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
+- [EZ-Flash Omega DE Mode B / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
 - [EverDrive GBA Mini](https://www.youtube.com/watch?v=epLif4ju4F0)
 - [replace batteries in flash carts](https://GBAtemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
@@ -245,7 +244,7 @@ pokemon stadium 1&2 provide these unique benefits
 - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
     
 ### Why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?
-because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the BennVenn only ever has one game flashed at time. likewise, the Omega DEhas the option (mode b) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
+because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the BennVenn only ever has one game flashed at time. likewise, the Omega DEhas the option (Mode B) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
 
 ### Why can't most flash carts utilize the analogue pocket's sleep functionality?
 similarly to my previous answer, only carts that offer a standalone game mode can utilize the analogue pocket's sleep functionality. this is because this sleep functionality is really a save state *for a specific game* in disguise. when you sleep your analogue pocket a save state is stored, when you wake your analogue pocket it attempts to load that save state. if you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
