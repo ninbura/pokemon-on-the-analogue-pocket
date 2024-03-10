@@ -212,6 +212,18 @@ There are three methods of playing pokemon on the Analogue pocket.
     - **authentic carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
+# converting save data to and from 2/3DS Virtual Console
+- there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
+    1. To acquire the GS Ball in Pokémon Crystal, so you can capture Celebi.
+        - Just for a quick rundown, to get the GS ball you first need access to the Elite 4. It doesn't matter if it's your first time running it or not. Save in-front of Lance, then 
+    3. To transfer Pokémon into Pokémon Home.
+- To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant-guides](#relevant-guides) below for more info.
+- save files are slightly different for GBC carts & cores vs Virtual Console save data, so you'll want to use converters to avoid corruption and incompatability.
+    - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3dsvc)
+        - This is only required for gen 2, gen 1 saves don't need in-bound conversion.
+        - Note that once converted to a VC save, save files will no longer be compatible with PKHeX. Use the next converter to solve this.
+    - [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
+
 # interfacing with Pokémon Home
 - **note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-analogue-pocket/issues/3**
 - gen 1&2
