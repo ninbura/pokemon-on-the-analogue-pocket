@@ -15,7 +15,7 @@
         - [EZ-Flash Omega DEfinitive Edition (highly recommended 👑)](#EZ-Flash-Omega-Definitive-Edition-highly-recommended) 
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-sd-cards)
-- [alternative methods of re-syncing in-game time](#alternative-methods-of-re-syncing-in-game-time)
+- [manually resetting RTC data](#manually-resetting-RTC-data)
     - [preface](#preface)
     - [methods](#methods)
 - [interfacing with Pokémon Home](#interfacing-with-Pokemon-Home)
@@ -172,15 +172,13 @@ There are three methods of playing pokemon on the Analogue pocket.
 - as mentioned above the EZ-Flash Junior specifically requires a fast micro sd card to function, the others will benefit from a fast micro sd card as well.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
  
-# alternative methods of re-syncing in-game time
-### preface
-i personally wouldn't recommend using these methods as they're pretty hands on, or require rom hacks. it is much more intuitive, and feels closer to the intended experience to use flash carts (when it comes to rtc).
+# manually resetting RTC data
 ### methods
 - gen 2
     - [in-game exploit](https://www.youtube.com/watch?v=Vupz6vwylGM&t)
     - rom hacks
 - gen 3
-    - **authentic carts** - desolder the internal battery, solder in a new one.
+    - **authentic carts & flash carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
 # interfacing with pokemon home
@@ -204,7 +202,7 @@ i personally wouldn't recommend using these methods as they're pretty hands on, 
 - [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
 - [BennVenn mbc3000 v4](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v4?variant=40095079202919)
 - [BennVenn Joey Jr v2++](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
-- [benvenn mbc3000 v4 + Joey Jr v2++ bundle](https://BennVenn.myshopify.com/products/mbc3k-joey-bundle?variant=40037766135911) ($10 discount when bundled)
+- [BennVenn MBC3000 + Joey Jr bundle](https://BennVenn.myshopify.com/products/mbc3k-joey-bundle?variant=40037766135911) ($10 discount when bundled)
 - [EZ-Flash Omega DEfinitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
 - [EverDrive GBA Mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=EverDrive+GBA+Mini&qid=1700285313&sprefix=EverDrive+GBA+Mini%2Caps%2C122&sr=8-1)
 - [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
