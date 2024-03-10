@@ -16,7 +16,6 @@
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-sd-cards)
 - [manually resetting RTC data](#manually-resetting-RTC-data)
-    - [methods](#methods)
 - [interfacing with Pokémon Home](#interfacing-with-Pokemon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
@@ -172,12 +171,25 @@ There are three methods of playing pokemon on the Analogue pocket.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
  
 # manually resetting RTC data
-### methods
+- [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) (gen 1&2)
+    1. backup save data
+    2. run PKHeX
+    3. load backed up save file
+    4. select the "SAV" tab
+    5. select "Clock (RTC)"
+    6. click "Yes"
 - gen 2
     - [in-game exploit](https://www.youtube.com/watch?v=Vupz6vwylGM&t)
+    - EZ-Flash Junior
+        1. set the internal clock 2 years ahead
+        2. launch your game
+        3. return the junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue pocket's menu.
+        4. re-sync the internal clock with real time
+        5. launch your game
+        6. follow the in-game prompts to re-set your in-game clock
     - rom hacks
 - gen 3
-    - **authentic carts & flash carts** - desolder the internal battery, solder in a new one.
+    - **authentic carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
 # interfacing with Pokémon Home
@@ -200,7 +212,10 @@ There are three methods of playing pokemon on the Analogue pocket.
 - [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
 - [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
 - [BennVenn MBC3000]([https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v4?variant=40095079202919](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5))
+- [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/)
+- [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
+- [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
 - [EZ-Flash Omega Definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
 - [EverDrive GBA Mini x5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html)
 - [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
