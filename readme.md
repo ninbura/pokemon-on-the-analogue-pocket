@@ -18,7 +18,7 @@
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-SD-cards)
 - [manually reset RTC data](#manually-reset-RTC-data)
-- [interfacing with Pokémon Home](#interfacing-with-Pokemon-Home)
+- [interfacing with Pokémon Home](#interfacing-with-Pokֳémon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
 - [relevant guides](#relevant-guides)
