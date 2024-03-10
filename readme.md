@@ -152,6 +152,10 @@ There are three methods of playing pokemon on the Analogue pocket.
         - *please note that Mode B is not compatible with the latest analogue pocket firmware, but ez-flash is working on a fix.*
         - compatible with Analogue Pocket's sleep function in "standalone mode"
         - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
+- #### [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2) (**recommended**)
+    - much cheaper than the Omega DE & GBA Mini
+    - Not compatible with stand alone cart functions, like the Analogue Pocket's sleep functionality, or Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
+    - Battery is soldered in, making it much more difficult to replace.
 - #### [EverDrive GBA Mini x5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html) (**recommended**)
     - 40% more expensive than the EZ-Flash Omega DE with similar build quality and *less features*
     - Not compatible with stand alone cart functions, like the Analogue Pocket's sleep functionality, or Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
