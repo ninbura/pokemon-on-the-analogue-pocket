@@ -8,7 +8,7 @@
 - [relevant Cores & surrounding nuance](#relevant-cores--surrounding-nuance)
 - [relevant flash carts & surrounding nuance](#relevant-flash-carts--surrounding-nuance)
     - [Game Boy Color](#Game-Boy-Color)
-        - [EZ-Flash Junior (not recommended)](#EZ-Flash-Junior-not-recommended)
+        - [EZ-Flash Junior (not recommended)](#EZ-Flash-Junior-recommended)
         - [EverDrive GB X7 (not recommended)](#EverDrive-GB-X7-not-recommended)
         - [BennVenn mbc3000 (recommended for use with the N64 Game Pak)](#BennVenn-MBC3000-recommended-for-use-with-the-N64-Game-Pak)
     - [Game Boy Advanced](#Game-Boy-Advanced)
