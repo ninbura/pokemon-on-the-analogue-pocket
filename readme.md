@@ -106,6 +106,18 @@ There are three methods of playing pokemon on the Analogue pocket.
         - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
         - cartridge battery replacement requires soldering
         - additional hardware is required to backup save data
+     
+# relevant cores & surrounding nuance
+- there are currently 2 GBC cores & 1 GBA core available on the Analogue Pocket
+- Only 1 of 3 cores currently supports RTC, and it's a GBC core.
+- There are no GBA cores that support RTC, so you'll want to use a GBA flash cart. Several are mentioned below.
+- I recommend installing all cores using [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), but make sure you select the proper GBC core, the one that supports RTC.
+- direct links
+    - [GBC by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GB-GBC) (RTC not implemented ❌)
+    - [GBC by budude2](https://github.com/budude2/openfpga-GBC) (RTC implemented ✅)
+        - Note that this core does not crurrently have a sleep/save state implementation, and once implemented could cause RTC desync.
+        - I will update the guide when sleep/save state implemenation drops, hopefully it's implemented to account for RTC desync 🤞
+    - [GBA by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GBA) (RTC not implemented ❌)
 
 # relevant flash carts & surrounding nuance
 ### summary
