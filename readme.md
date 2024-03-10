@@ -18,7 +18,7 @@
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-SD-cards)
 - [manually reset RTC data](#manually-reset-RTC-data)
-- [interfacing with Pokémon Home](#interfacing-with-Pokֳémon-Home)
+- [interfacing with Pokémon Home](#interfacing-with-Pokֳemon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
 - [relevant guides](#relevant-guides)
@@ -200,7 +200,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - **authentic carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
-# interfacing with Pokémon Home
+# interfacing with Pokemon Home
 - beyond gen 3
     - Note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-analogue-pocket/issues/3.
 - gen 1&2
