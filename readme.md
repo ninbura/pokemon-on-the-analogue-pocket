@@ -42,8 +42,8 @@ Pokémon games are unique due to their utilization of real-time clock, aka RTC. 
 - Ruby -> EZ-Flash Omega DE
 - Sapphire -> EZ-Flash Omega DE
 - Emerald -> EZ-Flash Omega DE
-- Fire Red -> GBA core
-- Leaf Green -> GBA core
+- Fire Red -> GBA core (no RTC)
+- Leaf Green -> GBA core (no RTC)
 
 # play methods & pros/cons
 There are three methods of playing pokemon on the Analogue pocket.
