@@ -219,16 +219,16 @@ There are three methods of playing pokemon on the Analogue pocket.
         1. save in-front of Lance (doesn't have to be your first time battling him)
         2. backup your save data
         3. convert your save data to VC data using [this tool](https://inject.sigkill.tech/converter/3Dsvc)
-        4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant-guides](#relevant-guides))
+        4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant guides](#relevant-guides))
         5. defeat lance
         6. enter the Goldenrod City Pokémon Center
         7. exit the Goldenrod City Pokémon Center
         8. receive the GS Ball
-        9. backup your save data using checkpoint (see [relevant-guides](#relevant-guides))
+        9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
         10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
         11. re-inject your save into your core/cart
     2. To transfer Pokémon into Pokémon Home (see [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home))
-- To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant-guides](#relevant-guides) below for more info.
+- To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant guides](#relevant-guides) below for more info.
 - save files are slightly different for GBC carts & cores vs Virtual Console save data, so you'll want to use converters to avoid corruption and incompatability.
     - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3Dsvc)
         - This is only required for gen 2, gen 1 saves don't need in-bound conversion.
