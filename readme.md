@@ -85,7 +85,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - GBC carts
             - incompatible with analogue pocket's sleep feature
             - time is not recalculated when save states are loaded (desync)
-            - **EverDrive GB X7** - time is ireversably desynced when save states are loaded without mods/exploits
+            - **EverDrive GB X7 | BennVenn MBC3000 | insideGadgets carts** - time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits.
         - GBA carts
             - **EverDrive GBA Mini** - incompatible with analogue pocket's sleep feature
         - both
