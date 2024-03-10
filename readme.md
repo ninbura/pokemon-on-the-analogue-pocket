@@ -32,13 +32,13 @@
 Some Pokémon games are unique due to their utilization of real-time clock, aka RTC. RTC keeps track of time while you aren't playing Pokémon games, essentially it syncs in-game time with real-time. in-game events such as Pokémon catchability, access ot the Move Tutor, Kurt's Apricorn Pokéballs, certain Pokémon evolutions, berry growth, lotteries, Secret Base battles, etc. depend on RTC. This causes complications depending on what method you're using to play Pokémon games on the Analogue Pocket. Bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/RTC effects in each generation of Pokémon. Generation 2 is much more dependant on RTC than generation 3, but it's important enough in both generations that I wouldn't consider playing without functional RTC.
 
 # optimal play method per game as of 2024/03/09
-- Red -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
-- Blue -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
-- Green -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts  (Stadium 1&2)
-- Yellow -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts  (Stadium 1&2)
-- Silver -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
-- Gold -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
-- Crystal -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Red -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Blue -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Green -> GGBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts  (Stadium 1&2)
+- Yellow -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts  (Stadium 1&2)
+- Silver -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Gold -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Crystal -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
 - Ruby -> EZ-Flash Omega DE
 - Sapphire -> EZ-Flash Omega DE
 - Emerald -> EZ-Flash Omega DE
