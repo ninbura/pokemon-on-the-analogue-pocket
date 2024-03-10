@@ -184,8 +184,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - *note that*
     - EverDrive requires that cards >32GB remain formatted as fat32. on microsoft windows, this requires a [special tool](http://ridgecrop.co.uk/index.htm?guiformat.htm).
     - the Omega DErequires that cards >32GB must be formatted as exfat
-- it is my recommendation that you use 32GB cards for everything to make things simple, realistically you'll never fill 32GB with GB/GBc/GBA roms.
-- as mentioned above the EZ-Flash Junior specifically requires a fast micro SD card to function, the others will benefit from a fast micro SD card as well.
+- It is my recommendation that you use 32GB cards for everything to make things simple, realistically you'll never fill 32GB with GB/GBc/GBA roms.
+- As mentioned above the EZ-Flash Junior specifically requires a fast micro SD card to function, the others will benefit from a fast micro SD card as well.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card
  
 # manually reset RTC data
@@ -203,7 +203,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - EZ-Flash Junior
         1. set the internal clock 2 years ahead
         2. launch your game
-        3. return the Junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue Pocket's menu.
+        3. Return the Junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue Pocket's menu.
         4. re-sync the internal clock with real time
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
