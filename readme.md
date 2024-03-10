@@ -41,7 +41,7 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
     - Sapphire -> EZ-Flash Omega DE
     - Emerald -> EZ-Flash Omega DE
 - games without RTC
-    - If you have a preferred play method for whatever reason, feel free to use it here as every play method has no negative effects due to a lack of RTC. Though keep in mind that only the BennVenn MBC3000 & insideGadgets carts will be compatible with the N64 Game Pak & the upcoming Analogue 3D for Pokémon Stadium integration (see [here](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokemon-Stadium-12)).
+    - preface - If you have a preferred play method for whatever reason, feel free to use it here as every play method has no negative effects due to a lack of RTC. Though keep in mind that only the BennVenn MBC3000 & insideGadgets carts will be compatible with the N64 Game Pak & the upcoming Analogue 3D for Pokémon Stadium integration (see [here](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokemon-Stadium-12)).
     - Red -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
     - Blue -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
     - Green -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
