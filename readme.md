@@ -154,7 +154,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - *please note that Mode B is not compatible with the latest analogue pocket firmware, but ez-flash is working on a fix.*
         - compatible with Analogue Pocket's sleep function in "standalone mode"
         - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
-- #### [EverDrive GBA Mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=EverDrive+GBA+Mini&qid=1700285313&sprefix=EverDrive+GBA+Mini%2Caps%2C122&sr=8-1) (**recommended**)
+- #### [EverDrive GBA Mini x5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html) (**recommended**)
     - 40% more expensive than the EZ-Flash Omega DE with similar build quality and *less features*
     - Not compatible with stand alone cart functions, like the Analogue Pocket's sleep functionality, or Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
 ### micro sd cards
@@ -203,7 +203,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - [BennVenn MBC3000]([https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v4?variant=40095079202919](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5))
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
 - [EZ-Flash Omega Definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
-- [EverDrive GBA Mini x5](https://www.amazon.com/EverDrive-GBA-X5-Mini-Game-Boy/dp/B0052URK0Q/ref=sr_1_1?crid=3S3NA2KAJ3BKM&keywords=EverDrive+GBA+Mini&qid=1700285313&sprefix=EverDrive+GBA+Mini%2Caps%2C122&sr=8-1)
+- [EverDrive GBA Mini x5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html)
 - [micro sd card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
 - [EZ-Flash Junior, EverDrive GB X7, BennVenn mbc3000, & EverDrive GBA Mini battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (cr1220)
 - [EZ-Flash Omega DE battery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (cr1025)
