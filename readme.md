@@ -1,4 +1,4 @@
-# definitive guide to playing Pokémon on the Analogue pocket
+# definitive guide to playing Pokémon on the Analogue Pocket
 - [introduction](#introduction)
 - [optimal play method per game as of 2024/03/09](#optimal-play-method-per-game-as-of-20240309)
 - [play methods & pros/cons](#play-methods--proscons)
@@ -47,7 +47,7 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
 - Leaf Green -> GBA core (no RTC)
 
 # play methods & pros/cons
-There are three methods of playing pokemon on the Analogue pocket.
+There are three methods of playing pokemon on the Analogue Pocket.
 1. #### cores
     - pros
         - GBC RTC Core
@@ -76,7 +76,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - GBA carts
             - save states are fully functional
             - time is recalculated when sleep/save states are loaded (always in-sync)
-            - **EZ-Flash Omega DE** - compatible with Analogue pocket's sleep feature
+            - **EZ-Flash Omega DE** - compatible with Analogue Pocket's sleep feature
         - both
             - much cheaper than authentic carts in the grand scheme of things
             - time is tracked while you aren't playing
@@ -84,11 +84,11 @@ There are three methods of playing pokemon on the Analogue pocket.
             - save files are easily accessible for backup
     - cons
         - GBC carts
-            - incompatible with Analogue pocket's sleep feature
+            - incompatible with Analogue Pocket's sleep feature
             - time is not recalculated when save states are loaded (desync)
             - **EverDrive GB X7 | BennVenn MBC3000 | insideGadgets carts** - time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits (see [manually reset RTC data](#manually-reset-RTC-data)).
         - GBA carts
-            - **EverDrive GBA Mini** - incompatible with Analogue pocket's sleep feature
+            - **EverDrive GBA Mini** - incompatible with Analogue Pocket's sleep feature
         - both
             - costs money
             - additional setup required
@@ -112,7 +112,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - there are currently 2 GBC cores & 1 GBA core available for the Analogue Pocket
 - Only 1 of 3 cores currently supports RTC, and it's a GBC core.
 - There are no GBA cores that support RTC, so you'll want to use a GBA flash cart. Several are mentioned below.
-- I recommend installing all cores using [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), but make sure you select the proper GBC core, the one that supports RTC (budude2's core).
+- I recommend installing all cores using [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync), but make sure you select the proper GBC core, the one that supports RTC (budude2's core).
 - direct links
     - [GBC by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GB-GBC) (RTC not implemented ❌)
     - [GBC by budude2](https://github.com/budude2/openfpga-GBC) (RTC implemented ✅)
@@ -126,13 +126,13 @@ There are three methods of playing pokemon on the Analogue pocket.
 ### Game Boy Color
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
     - **!!! important !!!**
-        - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezJunior-fw5-0918.zip) is currently required for the Junior to function with an Analogue pocket
+        - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezJunior-fw5-0918.zip) is currently required for the Junior to function with an Analogue Pocket
         - this unlisted firmware will cause your Junior to brick / die if you're not using a [fast enough micro SD card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
     - 3x cheaper than the EverDrive GB X7, albiet wtih an inferior physical build quality.
     - while time isn't recalculated after loading a save state, the in-game clock can be reset by manipulating the cart's internal clock
         1. set the internal clock 2 years ahead
         2. launch your game
-        3. return the Junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue pocket's menu.
+        3. return the Junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue Pocket's menu.
         4. re-sync the internal clock with real time
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
@@ -160,11 +160,11 @@ There are three methods of playing pokemon on the Analogue pocket.
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 ### Game Boy Advanced
-- GBA flash carts cannot be used to play GBC games without utilizing emulation. This defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
+- GBA flash carts cannot be used to play GBC games without utilizing emulation. This defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the Pocket's display.
 - #### [EZ-Flash Omega Definitive Edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the EverDrive GBA Mini x5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [Mode B / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
-        - *please note that Mode B is not compatible with the latest Analogue pocket firmware, but ez-flash is working on a fix.*
+        - *please note that Mode B is not compatible with the latest Analogue Pocket firmware, but ez-flash is working on a fix.*
         - compatible with Analogue Pocket's sleep function in "standalone mode"
         - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
 - #### [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
@@ -204,7 +204,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - EZ-Flash Junior
         1. set the internal clock 2 years ahead
         2. launch your game
-        3. return the Junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue pocket's menu.
+        3. return the Junior's menu by pressing the button in the cart (press on front), or by resetting the cartrige via the anlogue Pocket's menu.
         4. re-sync the internal clock with real time
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
@@ -236,7 +236,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
 
 # interfacing with Pokémon Home
-- **note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-Analogue-pocket/issues/3**
+- **note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-Analogue-Pocket/issues/3**
 - gen 1&2
    - backup your save file
    - [load your save file onto the virtual console version of said game via a modded 2/3DS running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
@@ -269,7 +269,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 
 # cores / software / firmware
 - cores/software
-    - [Pocket Sync](https://github.com/neil-morrison44/pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/pocket-sync))
+    - [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/Pocket-sync))
     - [fat32 formatter](http://ridgecrop.co.uk/index.htm?guiformat.htm) (required for >32GB micro SD cards used with EverDrive carts)
     - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
 - firmware
@@ -280,7 +280,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - [EverDrive GBA Mini](https://krikzz.com/pub/support/EverDrive-GBA/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
 
 # relevant guides
-- [Pocket Sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
+- [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync/blob/main/README.md)
 - [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezJunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - BennVenn MBC3000 (basically just a normal cart | see Joey Jr guide below for usage)
@@ -304,4 +304,4 @@ Pokémon Stadium 1&2 provide these unique benefits
 Most flash carts launch to a menu in-which you first have to select a rom to interact with it. The BennVenn & insideGadgets carts only ever have one game flashed at time. Likewise, the Omega DE has the option (Mode B) to run a single game standalone. this allows these carts to interface with specialized Nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
 
 ### Why can't most flash carts utilize the Analogue Pocket's sleep functionality?
-Similarly to my previous answer, only carts that offer a standalone game mode can utilize the Analogue pocket's sleep functionality. This is because this sleep functionality is really a save state *for a specific game* in disguise. When you sleep your Analogue pocket a save state is stored, when you wake your Analogue pocket it attempts to load that save state. If you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
+Similarly to my previous answer, only carts that offer a standalone game mode can utilize the Analogue Pocket's sleep functionality. This is because this sleep functionality is really a save state *for a specific game* in disguise. When you sleep your Analogue Pocket a save state is stored, when you wake your Analogue Pocket it attempts to load that save state. If you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
