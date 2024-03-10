@@ -126,24 +126,24 @@ There are three methods of playing pokemon on the Analogue pocket.
     - incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1) (**not recommended**)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
-    - For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior, is not possible via the EverDrive GB X7. there is no method of re-syncing in-game time with real time outside of rom hacks / in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
+    - For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior, is not possible via the EverDrive GB X7. there is no method of re-syncing in-game time with real time outside of external software, rom hacks, or in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
     - incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5) (**recommended for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
-    - time is permanently desynced when save states are loaded without use of external applications or in-game exploits
+    - time is desynced when save states are loaded without use of external applications or in-game exploits
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 - #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/) (**recommended for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly more expensive that BennVenn's MBC3000
-    - time is permanently desynced when save states are loaded without use of external applications or in-game exploits
+    - time is desynced when save states are loaded without use of external applications or in-game exploits
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 - #### [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) (**recommended for use with the N64 Game Pak**)
     - **Does not** require an additional cart flashing tool, you can flash games directly via the USB-C port on the card.
     - Significantly more expensive that BennVenn's MBC3000 & insideGadgets non "LinkNLoad" cart, but possibly more convenient as an additonal flasher is not required.
-    - time is permanently desynced when save states are loaded without use of external applications or in-game exploits
+    - time is desynced when save states are loaded without use of external applications or in-game exploits
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 ### Game Boy Advanced
