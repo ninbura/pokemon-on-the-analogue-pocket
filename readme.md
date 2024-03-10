@@ -65,7 +65,7 @@ There are three methods of playing pokemon on the Analogue pocket.
             - time is only tracked when playing the game
             - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
         - both
-            - incapable of interfacing with some Nintendo hardware/software (N64 Game pak, pal park, etc.)
+            - incapable of interfacing with some Nintendo hardware/software (N64 Game Pak, pal park, etc.)
 2. #### authentic cartridges
     - pros
         - time is tracked while you aren't playing the game
@@ -127,20 +127,20 @@ There are three methods of playing pokemon on the Analogue pocket.
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1) (**not recommended**)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
     - For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior, is not possible via the EverDrive GB X7. there is no method of re-syncing in-game time with real time outside of rom hacks / in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
-    - incompatible with n64 game pak, and thus Pokémon Stadium.
-- #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5) (**recommended for use with the n64 game pak**)
+    - incompatible with N64 Game Pak, and thus Pokémon Stadium.
+- #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5) (**recommended for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
     - time is permanently desynced when save states are loaded without use of external applications or in-game exploits
     - Unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
-- #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/)
+- #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/) (**recommended for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly more expensive that BennVenn's MBC3000
     - time is permanently desynced when save states are loaded without use of external applications or in-game exploits
     - Unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
-- #### [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
+- #### [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) (**recommended for use with the N64 Game Pak**)
     - **Does not** require an additional cart flashing tool, you can flash games directly via the USB-C port on the card.
     - Significantly more expensive that BennVenn's MBC3000 & insideGadgets non "LinkNLoad" cart, but possibly more convenient as an additonal flasher is not required.
     - time is permanently desynced when save states are loaded without use of external applications or in-game exploits
@@ -237,13 +237,13 @@ There are three methods of playing pokemon on the Analogue pocket.
 ### Why don't you recommend the EverDrive GB X7 for use with the Analogue Pocket?
 in-game time desyncs when a save state is loaded while using the EverDrive GB X7, with little recourse to remedy the issue. it is also vastly more expensive than the EZ-Flash Junior, while being less functional in relation to the pocket, as previously mentioned.
 
-### Why do I want to interface my gen 1&2 games with the n64 transfer pack / Pokémon Stadium 1&2
+### Why do I want to interface my gen 1&2 games with the N64 transfer pack / Pokémon Stadium 1&2
 Pokémon Stadium 1&2 provide these unique benefits
 - much easier Pokémon box orginzation
 - much faster / bulk transfer of Pokémon between games
 - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
     
-### Why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?
+### Why can't most flash carts interface with specialized nintendo hardware/software (Game Pak, pal park, etc)?
 because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the BennVenn only ever has one game flashed at time. likewise, the Omega DEhas the option (Mode B) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
 
 ### Why can't most flash carts utilize the analogue pocket's sleep functionality?
