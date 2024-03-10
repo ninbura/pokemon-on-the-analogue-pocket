@@ -2,9 +2,9 @@
 - [introduction](#introduction)
 - [optimal play method per game as of 2024/03/09](#optimal-play-method-per-game-as-of-20240309)
 - [play methods & pros/cons](#play-methods--proscons)
-    1. [authenic cartridges](#authentic-cartridges)
+    1. [cores](#cores)
     2. [flash carts](#flash-carts)
-    3. [cores](#cores)
+    3. [authenic cartridges](#authentic-cartridges)
 - [relevant Cores & surrounding nuance](#relevant-cores--surrounding-nuance)
 - [relevant flash carts & surrounding nuance](#relevant-flash-carts--surrounding-nuance)
     - [Game Boy Color](#Game-Boy-Color)
@@ -66,21 +66,7 @@ There are three methods of playing pokemon on the Analogue pocket.
             - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
         - both
             - incapable of interfacing with some Nintendo hardware/software (N64 Game Pak, pal park, etc.)
-2. #### authentic cartridges
-    - pros
-        - time is tracked while you aren't playing the game
-        - sleep/save states are partially functional
-        - no setup required
-        - interfaces with official Nintendo hardware/software (N64 Game Pak, Pal Park, etc.)
-        - karts r kool
-    - cons
-        - extremely expensive
-        - time is not re-calculated when sleep/save states are loaded (desync)
-        - gen 2 cartridge save data is lost when the cart's internal battery dies
-        - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
-        - cartridge battery replacement requires soldering
-        - additional hardware is required to backup save data
-3. #### flash carts
+2. #### flash carts
     - pros
         - GBC carts
             - save states are partially functional
@@ -106,6 +92,20 @@ There are three methods of playing pokemon on the Analogue pocket.
             - costs money
             - additional setup required
             - rtc relies on internal batteries that eventually die 
+3. #### authentic cartridges
+    - pros
+        - time is tracked while you aren't playing the game
+        - sleep/save states are partially functional
+        - no setup required
+        - interfaces with official Nintendo hardware/software (N64 Game Pak, Pal Park, etc.)
+        - karts r kool
+    - cons
+        - extremely expensive
+        - time is not re-calculated when sleep/save states are loaded (desync)
+        - gen 2 cartridge save data is lost when the cart's internal battery dies
+        - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
+        - cartridge battery replacement requires soldering
+        - additional hardware is required to backup save data
 
 # relevant flash carts & surrounding nuance
 ### summary
