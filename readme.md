@@ -215,8 +215,18 @@ There are three methods of playing pokemon on the Analogue pocket.
 # converting save data to and from 2/3DS Virtual Console
 - there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
     1. To acquire the GS Ball in Pokémon Crystal, so you can capture Celebi.
-        - Just for a quick rundown, to get the GS ball you first need access to the Elite 4. It doesn't matter if it's your first time running it or not. Save in-front of Lance, then 
-    3. To transfer Pokémon into Pokémon Home.
+        1. save in-front of Lance (doesn't have to be your first time battling him)
+        2. backup your save data
+        3. convert your save data to VC data using [this tool](https://inject.sigkill.tech/converter/3dsvc)
+        4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant-guides](#relevant-guides))
+        5. defeat lance
+        6. enter the Goldenrod City Pokémon Center
+        7. exit the Goldenrod City Pokémon Center
+        8. receive the GS Ball
+        9. backup your save data using checkpoint (see [relevant-guides](#relevant-guides))
+        10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
+        11. re-inject your save into your core/cart
+    2. To transfer Pokémon into Pokémon Home (see [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home))
 - To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant-guides](#relevant-guides) below for more info.
 - save files are slightly different for GBC carts & cores vs Virtual Console save data, so you'll want to use converters to avoid corruption and incompatability.
     - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3dsvc)
