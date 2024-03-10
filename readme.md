@@ -1,4 +1,4 @@
-# definitive guide to playing pokemon on the analogue pocket
+# definitive guide to playing Pokémon on the analogue pocket
 - [introduction](#introduction)
 - [optimal play method per game as of 2024/03/09](#optimal-play-method-per-game-as-of-20240309)
 - [play methods & pros/cons](#play-methods--proscons)
@@ -24,7 +24,7 @@
 - [relevant guides](#relevant-guides)
 - [frequently asked questions](#frequently-asked-questions)
     - [Why don't you recommend the EverDrive GB X7 for use with the Analogue Pocket?](#Why-dont-you-recommend-the-EverDrive-GB-X7-for-use-with-the-Analogue-Pocket)
-    - [Why do I want to interface my gen 1/2 games with the N64 transfer pack / Pokemon Stadium 1&2](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokemon-Stadium-12)
+    - [Why do I want to interface my gen 1/2 games with the N64 transfer pack / Pokémon Stadium 1&2](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokemon-Stadium-12)
     - [Why can't most flash carts interface with specialized Nintendo hardware/software (Game Pak, Pal Park, etc)?](#Why-cant-most-flash-carts-interface-with-specialized-Nintendo-hardwaresoftware-Game-Pak-Pal-Park-etc)
     - [Why can't most flash carts utilize the Analogue Pocket's sleep functionality?](#Why-cant-most-flash-carts-utilize-the-Analogue-Pockets-sleep-functionality)
 
@@ -32,13 +32,13 @@
 Some Pokémon games are unique due to their utilization of real-time clock, aka RTC. RTC keeps track of time while you aren't playing Pokémon games, essentially it syncs in-game time with real-time. in-game events such as Pokémon catchability, access ot the Move Tutor, Kurt's Apricorn Pokéballs, certain Pokémon evolutions, berry growth, lotteries, Secret Base battles, etc. depend on RTC. This causes complications depending on what method you're using to play Pokémon games on the Analogue Pocket. Bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/RTC effects in each generation of Pokémon. Generation 2 is much more dependant on RTC than generation 3, but it's important enough in both generations that I wouldn't consider playing without functional RTC.
 
 # optimal play method per game as of 2024/03/09
-- Red -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (stadium 1&2)
+- Red -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
 - Blue -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
 - Green -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts  (Stadium 1&2)
 - Yellow -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts  (Stadium 1&2)
-- Silver -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (stadium 1&2)
-- Gold -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (stadium 1&2)
-- Crystal -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (stadium 1&2)
+- Silver -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Gold -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+- Crystal -> GBC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
 - Ruby -> EZ-Flash Omega DE
 - Sapphire -> EZ-Flash Omega DE
 - Emerald -> EZ-Flash Omega DE
@@ -127,7 +127,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1) (**not recommended**)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
     - For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior, is not possible via the EverDrive GB X7. there is no method of re-syncing in-game time with real time outside of rom hacks / in-game exploits. you could technically use your giant brain to constantly adjust the cart's internal clock, to offset for in-game time. but it's not tenable, as it would have to be accounted for *per game*.
-    - incompatible with n64 game pak, and thus pokemon stadium.
+    - incompatible with n64 game pak, and thus Pokémon Stadium.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/mbc3000-rtc-GBc-cart-v5) (**recommended for use with the n64 game pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
@@ -181,7 +181,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - **authentic carts & flash carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
-# interfacing with pokemon home
+# interfacing with Pokémon Home
 - gen 1&2
    - backup your save file
    - [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
@@ -189,7 +189,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - gen 3
    - method 1 (authentic carts & EZ-Flash Omega DE only)
       - if you're using the EZ-Flash Omega DE the game must be running in Mode B
-      - [use a nintendo ds + pal park to trade pokemon from gen 3 to gen 4](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
+      - [use a nintendo ds + pal park to trade Pokémon from gen 3 to gen 4](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
    - method 2
       - backup your gen 3 save file
@@ -237,10 +237,10 @@ There are three methods of playing pokemon on the Analogue pocket.
 ### Why don't you recommend the EverDrive GB X7 for use with the Analogue Pocket?
 in-game time desyncs when a save state is loaded while using the EverDrive GB X7, with little recourse to remedy the issue. it is also vastly more expensive than the EZ-Flash Junior, while being less functional in relation to the pocket, as previously mentioned.
 
-### Why do I want to interface my gen 1&2 games with the n64 transfer pack / pokemon stadium 1&2
-pokemon stadium 1&2 provide these unique benefits
-- much easier pokemon box orginzation
-- much faster / bulk transfer of pokemon between games
+### Why do I want to interface my gen 1&2 games with the n64 transfer pack / Pokémon Stadium 1&2
+Pokémon Stadium 1&2 provide these unique benefits
+- much easier Pokémon box orginzation
+- much faster / bulk transfer of Pokémon between games
 - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
     
 ### Why can't most flash carts interface with specialized nintendo hardware/software (game pak, pal park, etc)?
