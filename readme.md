@@ -29,10 +29,7 @@
     - [why can't most flash carts utilize the analogue pocket's sleep functionality?](#why-cant-most-flash-carts-utilize-the-analogue-pockets-sleep-functionality)
 
 # introduction
-pokemon games are unique due to their utilization of real-time clock, aka rtc. rtc keeps track of time while you aren't playing pokemon games, essentially it syncs in-game time with real-time. in-game events such as pokemon catchability, access ot the move tutor, kurt's apricorn pokeballs, certain pokemon evolutions, berry growth, lotteries, secret Base battles, etc. depend on rtc. this causes complications depending on what method you're using to play pokemon games on the analogue pocket. bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/rtc effects in each generation of pokemon. generation 2 is much more dependant on rtc than generation 3, but it's important enough in both generations that i wouldn't consider playing without functional rtc.
-
-# rudimentary explanation of the rtc mechanism
-it's pretty complicated... but from my understanding, an encoded start time stamp is stored in your save file. when you launch your game, a calculation is made by getting a difference in your original timestamp, and current time. directly modifying the data that controls this time stamp seems nearly impossible as an end user. it would appear that different hardware (oem carts, flash carts, fpga) & software (emulators) calculate things differently, making it difficult to transfer save data between different hardware/software without de-syncing your in-game clock. **because rtc data is stored within a game's save data, analogue could technically push a fix for this in the future.** by ripping the save data from the cart, modifying the save data, and loading a state with correct rtc data. but i wouldn't your breath.
+Pokémon games are unique due to their utilization of real-time clock, aka RTC. RTC keeps track of time while you aren't playing Pokémon games, essentially it syncs in-game time with real-time. in-game events such as Pokémon catchability, access ot the Move Tutor, Kurt's Apricorn Pokéballs, certain Pokémon evolutions, berry growth, lotteries, Secret Base battles, etc. depend on RTC. This causes complications depending on what method you're using to play Pokémon games on the Analogue Pocket. Bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/RTC effects in each generation of Pokémon. Generation 2 is much more dependant on RTC than generation 3, but it's important enough in both generations that I wouldn't consider playing without functional RTC.
 
 # play methods & pros/cons
 there are three methods of playing pokemon on the analogue pocket. tldr; flash carts are currently superior for playing pokemon games that utilize rtc.
@@ -40,9 +37,8 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
     - pros
         - time is tracked while you aren't playing the game
         - sleep/save states are partially functional
-        - display modes are supported
         - no setup required
-        - interfaces with official nintendo hardware/software (n64 game pak, pal park, etc.)
+        - interfaces with official Nintendo hardware/software (N64 Game Pak, Pal Park, etc.)
         - karts r kool
     - cons
         - extremely expensive
@@ -53,34 +49,49 @@ there are three methods of playing pokemon on the analogue pocket. tldr; flash c
         - additional hardware is required to backup save data
 2. #### flash carts
     - pros
-        - much cheaper than authentic carts in the grand scheme of things
-        - time is tracked while you aren't playing
-        - **gbc carts** - save states are partially functional
-        - **gba carts** - save states are fully functional
-        - **gba carts** - time is recalculated when sleep/save states are loaded (always in-sync)
-        - **ez-flash junior** - in-game clock can be reset via modification of cart's internal clock
-        - **ez-flash omega de** - compatible with analogue pocket's sleep feature
-        - save files are easily accessible for backup
-        - easy to replace internal batteries
+        - GBC carts
+            - save states are partially functional
+            - **ez-flash junior** - in-game clock can be reset via modification of cart's internal clock
+            - **BennVenn MBC3000 & Inside Gadgets RTC carts** - compatible with N64 Gam Pak for use with Pokémon Colleseum
+        - GBA carts
+            - save states are fully functional
+            - time is recalculated when sleep/save states are loaded (always in-sync)
+            - **ez-flash omega de** - compatible with analogue pocket's sleep feature
+        - both
+            - much cheaper than authentic carts in the grand scheme of things
+            - time is tracked while you aren't playing
+            - easy to replace internal batteries
+            - save files are easily accessible for backup
     - cons
-        - costs money
-        - **everdrive gba mini x5 & gbc carts** - incompatible with analogue pocket's sleep feature
-        - **everdrive gb x7** - time is ireversably desynced when save states are loaded without mods/exploits
-        - **gbc carts** - time is not recalculated when save states are loaded (desync)
-        - additional setup required
-        - rtc relies on internal batteries that eventually die 
+        - GBC carts
+            - incompatible with analogue pocket's sleep feature
+            - time is not recalculated when save states are loaded (desync)
+            - **everdrive gb x7** - time is ireversably desynced when save states are loaded without mods/exploits
+        - GBA carts
+            - **everdrive gba mini** - incompatible with analogue pocket's sleep feature
+        - both
+            - costs money
+            - additional setup required
+            - rtc relies on internal batteries that eventually die 
 3. #### cores
     - pros
-        - free
-        - sleep/save states are partially functional
-        - save files are easily accesible for backup
-        - save data & rtc functionality is not dependant on the finite life of a non-rechargable battery
-        - additional setup required 
+        - GBC RTC Core
+            - time is tracked while you aren't playing the game
+        - GBA Core
+            - sleep/save states are partially functional
+        - both
+            - free
+            - save files are easily accesible for backup
+            - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
+            - additional setup required 
     - cons
-        - time is only tracked when playing the game
-        - time is not re-calculated when sleep/save states are loaded
-        - display modes are not supported (but should be by the end of 2023)
-        - incapable of interfacing with some nintendo hardware/software (n64 game pak, pal park, etc.)
+        - GBC RTC Core
+            - sleep/save states are unavailable
+        - GBA Core
+            - time is only tracked when playing the game
+            - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
+        - both
+            - incapable of interfacing with some Nintendo hardware/software (N64 Game pak, pal park, etc.)
 
 # relevant flash carts & surrounding nuance
 ### summary
