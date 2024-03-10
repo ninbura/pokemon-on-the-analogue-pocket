@@ -190,7 +190,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card
  
 # manually reset RTC data
-- [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) (gen 1&2)
+- [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) (gen 2&3)
     1. backup save data
     2. run PKHeX
     3. load backed up save file
