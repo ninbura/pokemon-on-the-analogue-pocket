@@ -86,7 +86,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - GBC carts
             - incompatible with Analogue pocket's sleep feature
             - time is not recalculated when save states are loaded (desync)
-            - **EverDrive GB X7 | BennVenn MBC3000 | insideGadgets carts** - time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits.
+            - **EverDrive GB X7 | BennVenn MBC3000 | insideGadgets carts** - time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits (see [manually reset RTC data](#manually-reset-RTC-data)).
         - GBA carts
             - **EverDrive GBA Mini** - incompatible with Analogue pocket's sleep feature
         - both
@@ -144,19 +144,19 @@ There are three methods of playing pokemon on the Analogue pocket.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-rtc-GBc-cart-v5) (**for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
-    - time is desynced when save states are loaded without use of external applications or in-game exploits
+    - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 - #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/) (**for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly more expensive that BennVenn's MBC3000
-    - time is desynced when save states are loaded without use of external applications or in-game exploits
+    - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 - #### [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) (**for use with the N64 Game Pak**)
     - **Does not** require an additional cart flashing tool, you can flash games directly via the USB-C port on the card.
     - Significantly more expensive that BennVenn's MBC3000 & insideGadgets non "LinkNLoad" cart, but possibly more convenient as an additonal flasher is not required.
-    - time is desynced when save states are loaded without use of external applications or in-game exploits
+    - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 ### Game Boy Advanced
