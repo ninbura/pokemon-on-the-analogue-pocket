@@ -210,7 +210,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 
 # cores / software / firmware
 - cores/software
-    - [pocket sync](https://github.com/neil-morrison44/pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/pocket-sync))
+    - [Pocket Sync](https://github.com/neil-morrison44/pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/pocket-sync))
     - [fat32 formatter](http://ridgecrop.co.uk/index.htm?guiformat.htm) (required for >32GB micro sd cards used with EverDrive carts)
 - firmware
     - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro sd card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
@@ -220,7 +220,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - [EverDrive GBA Mini](https://krikzz.com/pub/support/EverDrive-GBA/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
 
 # relevant guides
-- [pocket sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
+- [Pocket Sync](https://github.com/neil-morrison44/pocket-sync/blob/main/README.md)
 - [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card)
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - BennVenn mbc3000 (basically just a normal cart | see Joey Jr guide below for usage)
