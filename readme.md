@@ -65,7 +65,7 @@ There are three methods of playing pokemon on the Analogue pocket.
             - time is only tracked when playing the game
             - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
         - both
-            - incapable of interfacing with some Nintendo hardware/software (N64 Game Pak, pal park, etc.)
+            - incapable of interfacing with some Nintendo hardware/software (N64 Game Pak, Pal Park, etc.)
 2. #### flash carts
     - pros
         - GBC carts
@@ -203,12 +203,12 @@ There are three methods of playing pokemon on the Analogue pocket.
 # interfacing with Pokémon Home
 - gen 1&2
    - backup your save file
-   - [load your save file onto the virtual console version of said game via a modded 2/3ds running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
+   - [load your save file onto the virtual console version of said game via a modded 2/3DS running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
    - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
 - gen 3
    - method 1 (authentic carts & EZ-Flash Omega DE only)
       - if you're using the EZ-Flash Omega DE the game must be running in Mode B
-      - [use a nintendo ds + pal park to trade Pokémon from gen 3 to gen 4](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
+      - [use a Nintendo ds + Pal Park to trade Pokémon from gen 3 to gen 4](https://bulbapedia.bulbagarden.net/wiki/Pal_Park)
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3ds-switch-pokemon-go) guide
    - method 2
       - backup your gen 3 save file
@@ -254,20 +254,17 @@ There are three methods of playing pokemon on the Analogue pocket.
 - [EverDrive GBA Mini](https://www.youtube.com/watch?v=epLif4ju4F0)
 - [replace batteries in flash carts](https://GBAtemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
-- [mod 2/3ds systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
+- [mod 2/3DS systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
 
 # frequently asked questions
-### Why don't you recommend the EverDrive GB X7 for use with the Analogue Pocket?
-in-game time desyncs when a save state is loaded while using the EverDrive GB X7, with little recourse to remedy the issue. it is also vastly more expensive than the EZ-Flash Junior, while being less functional in relation to the pocket, as previously mentioned.
-
 ### Why do I want to interface my gen 1&2 games with the N64 transfer pack / Pokémon Stadium 1&2
 Pokémon Stadium 1&2 provide these unique benefits
 - much easier Pokémon box orginzation
 - much faster / bulk transfer of Pokémon between games
 - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
     
-### Why can't most flash carts interface with specialized nintendo hardware/software (Game Pak, pal park, etc)?
-because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the BennVenn only ever has one game flashed at time. likewise, the Omega DEhas the option (Mode B) to run a single game standalone. this allows these carts to interface with specialized nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
+### Why can't most flash carts interface with specialized Nintendo hardware/software (Game Pak, Pal Park, etc)?
+because most flash carts launch to a menu in-which you first have to select a rom to interact with it. the BennVenn only ever has one game flashed at time. likewise, the Omega DEhas the option (Mode B) to run a single game standalone. this allows these carts to interface with specialized Nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
 
-### Why can't most flash carts utilize the analogue pocket's sleep functionality?
+### Why can't most flash carts utilize the Analogue Pocket's sleep functionality?
 similarly to my previous answer, only carts that offer a standalone game mode can utilize the analogue pocket's sleep functionality. this is because this sleep functionality is really a save state *for a specific game* in disguise. when you sleep your analogue pocket a save state is stored, when you wake your analogue pocket it attempts to load that save state. if you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
