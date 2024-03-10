@@ -46,7 +46,26 @@ Pokémon games are unique due to their utilization of real-time clock, aka RTC. 
 
 # play methods & pros/cons
 There are three methods of playing pokemon on the Analogue pocket.
-1. #### authentic cartridges
+1. #### cores
+    - pros
+        - GBC RTC Core
+            - time is tracked while you aren't playing the game
+        - GBA Core
+            - sleep/save states are partially functional
+        - both
+            - free
+            - save files are easily accesible for backup
+            - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
+            - additional setup required 
+    - cons
+        - GBC RTC Core
+            - sleep/save states are unavailable
+        - GBA Core
+            - time is only tracked when playing the game
+            - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
+        - both
+            - incapable of interfacing with some Nintendo hardware/software (N64 Game pak, pal park, etc.)
+2. #### authentic cartridges
     - pros
         - time is tracked while you aren't playing the game
         - sleep/save states are partially functional
@@ -60,7 +79,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - gen 3 cartridge time is no longer tracked when the cart's internal battery dies
         - cartridge battery replacement requires soldering
         - additional hardware is required to backup save data
-2. #### flash carts
+3. #### flash carts
     - pros
         - GBC carts
             - save states are partially functional
@@ -86,29 +105,10 @@ There are three methods of playing pokemon on the Analogue pocket.
             - costs money
             - additional setup required
             - rtc relies on internal batteries that eventually die 
-3. #### cores
-    - pros
-        - GBC RTC Core
-            - time is tracked while you aren't playing the game
-        - GBA Core
-            - sleep/save states are partially functional
-        - both
-            - free
-            - save files are easily accesible for backup
-            - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
-            - additional setup required 
-    - cons
-        - GBC RTC Core
-            - sleep/save states are unavailable
-        - GBA Core
-            - time is only tracked when playing the game
-            - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
-        - both
-            - incapable of interfacing with some Nintendo hardware/software (N64 Game pak, pal park, etc.)
 
 # relevant flash carts & surrounding nuance
 ### summary
-There's little reason to use the EZ-Flash Jr. or Everdrive GB X7 after the release of [budude2's RTC compatible GBC Core](https://github.com/budude2/openfpga-GBC). The best combination of carts for use with the Analogue Pocket is the [BennVenn MBC3000 v4](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4?variant=40095079202919), and the [EZ-Flash Omega DE](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1). Why? Because this gives you the most compatibility with the Analogue Pocket's sleep/save state functions, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
+There's little reason to use the EZ-Flash Jr. or Everdrive GB X7 after the release of [budude2's RTC compatible GBC Core](https://github.com/budude2/openfpga-GBC). The best combination of carts for use with the Analogue Pocket is the [BennVenn MBC3000 v4](https://bennvenn.myshopify.com/products/mbc3000-rtc-gbc-cart-v4?variant=40095079202919) or insideGadgets GBC carts w/ RTC (see below), and the [EZ-Flash Omega DE](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1). Why? Because this gives you the most compatibility with the Analogue Pocket's sleep/save state functions, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/analogue/status/1713933239327273452?s=20) of the analogue 3d.
 ### Game Boy Color
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-Everdrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1) (**recommended**)
     - **!!! important !!!**
@@ -133,6 +133,7 @@ There's little reason to use the EZ-Flash Jr. or Everdrive GB X7 after the relea
     - time is permanently desynced like the everdrive gb x7 when save states are loaded.
     - unlike other carts, there is no sd card, and only one game can be stored on the cart at a time.
     - because only one game is loaded at a time, **this cart is compatible with the n64 game pak / pokemon stadium.
+- #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/) | [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
 ### Game Boy Advanced
 - gba flash carts cannot be used to play gbc games without utilizing emulation. this defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the pocket's display.
 - #### [ez-flash omega definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
