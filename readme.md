@@ -178,6 +178,8 @@ There are three methods of playing pokemon on the Analogue pocket.
     4. select the "SAV" tab
     5. select "Clock (RTC)"
     6. click "Yes"
+    7. reload your save data into your cart/core
+    8. reset time when prompted to in-game
 - gen 2
     - [in-game exploit](https://www.youtube.com/watch?v=Vupz6vwylGM&t)
     - EZ-Flash Junior
