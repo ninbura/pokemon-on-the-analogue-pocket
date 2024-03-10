@@ -303,7 +303,7 @@ Pokémon Stadium 1&2 provide these unique benefits
 - [shiny hunting eggs in gen 2](https://www.youtube.com/watch?v=Nywbm5ZZZvQ&t)
     
 ### Why can't most flash carts interface with specialized Nintendo hardware/software (Game Pak, Pal Park, etc)?
-Most flash carts launch to a menu in-which you first have to select a rom to interact with it. The BennVenn & insideGadgets carts only ever have one game flashed at time. Likewise, the Omega DE has the option (Mode B) to run a single game standalone. this allows these carts to interface with specialized Nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
+Most flash carts launch to a menu in-which you first have to select a rom to interact with it. The BennVenn & insideGadgets carts only ever have one game flashed at time. Likewise, the Omega DE has the option (Mode B) to run a single game standalone. This allows these carts to interface with specialized Nintendo hardware/software, as they are viewed as single authentic game by the receiving hardware.
 
 ### Why can't most flash carts utilize the Analogue Pocket's sleep functionality?
 Similarly to my previous answer, only carts that offer a standalone game mode can utilize the Analogue Pocket's sleep functionality. This is because this sleep functionality is really a save state *for a specific game* in disguise. When you sleep your Analogue Pocket a save state is stored, when you wake your Analogue Pocket it attempts to load that save state. If you're using a flash cart that loads to a menu before it can load a specific game, it's impossible to load a state for a specific game before it is manually selected.
