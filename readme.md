@@ -72,7 +72,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - GBC carts
             - save states are partially functional
             - **EZ-Flash Junior** - in-game clock can be reset via modification of cart's internal clock
-            - **BennVenn MBC3000 & insideGadgets RTC carts** - compatible with N64 Gam Pak for use with Pokémon Colleseum
+            - **BennVenn MBC3000 & insideGadgets RTC carts** - compatible with N64 Gam Pak for use with Pokémon Stadium 1&2
         - GBA carts
             - save states are fully functional
             - time is recalculated when sleep/save states are loaded (always in-sync)
