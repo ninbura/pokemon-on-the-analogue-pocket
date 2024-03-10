@@ -200,7 +200,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - **authentic carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
-# interfacing with Pokemon Home
+# interfacing with Pokémon Home
 - beyond gen 3
     - Note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-analogue-pocket/issues/3.
 - gen 1&2
