@@ -202,7 +202,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 
 # interfacing with Pokémon Home
 - beyond gen 3
-    - Note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-analogue-pocket/issues/3.
+    - note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-analogue-pocket/issues/3
 - gen 1&2
    - backup your save file
    - [load your save file onto the virtual console version of said game via a modded 2/3DS running checkpoint](https://www.youtube.com/watch?v=pe9mw25mHGA)
