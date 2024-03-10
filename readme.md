@@ -15,7 +15,7 @@
         - [EZ-Flash Omega Definitive Edition (highly recommended 👑)](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-) 
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-sd-cards)
-- [manually resetting RTC data](#manually-resetting-RTC-data)
+- [manually reset RTC data](#manually-resetting-RTC-data)
 - [interfacing with Pokémon Home](#interfacing-with-Pokemon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
@@ -170,7 +170,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - as mentioned above the EZ-Flash Junior specifically requires a fast micro sd card to function, the others will benefit from a fast micro sd card as well.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+sd+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro sd card
  
-# manually resetting RTC data
+# manually reset RTC data
 - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) (gen 1&2)
     1. backup save data
     2. run PKHeX
