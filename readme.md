@@ -108,7 +108,7 @@ There are three methods of playing pokemon on the Analogue pocket.
         - additional hardware is required to backup save data
      
 # relevant cores & surrounding nuance
-- there are currently 2 GBC cores & 1 GBA core available on the Analogue Pocket
+- there are currently 2 GBC cores & 1 GBA core available for the Analogue Pocket
 - Only 1 of 3 cores currently supports RTC, and it's a GBC core.
 - There are no GBA cores that support RTC, so you'll want to use a GBA flash cart. Several are mentioned below.
 - I recommend installing all cores using [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), but make sure you select the proper GBC core, the one that supports RTC.
