@@ -5,6 +5,7 @@
     1. [authenic cartridges](#authentic-cartridges)
     2. [flash carts](#flash-carts)
     3. [cores](#cores)
+- [relevant Cores & surrounding nuance](#relevant-cores--surrounding-nuance)
 - [relevant flash carts & surrounding nuance](#relevant-flash-carts--surrounding-nuance)
     - [Game Boy Color](#Game-Boy-Color)
         - [EZ-Flash Junior (not recommended)](#EZ-Flash-Junior-not-recommended)
