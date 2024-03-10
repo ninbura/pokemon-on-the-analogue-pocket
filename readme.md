@@ -24,8 +24,7 @@
 - [cores / software / firmware](#cores--software--firmware)
 - [relevant guides](#relevant-guides)
 - [frequently asked questions](#frequently-asked-questions)
-    - [Why don't you recommend the EverDrive GB X7 for use with the Analogue Pocket?](#Why-dont-you-recommend-the-EverDrive-GB-X7-for-use-with-the-Analogue-Pocket)
-    - [Why do I want to interface my gen 1/2 games with the N64 transfer pack / Pokémon Stadium 1&2](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokemon-Stadium-12)
+    - [Why do I want to interface my gen 1/2 games with the N64 transfer pack / Pokémon Stadium 1&2](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokémon-Stadium-12)
     - [Why can't most flash carts interface with specialized Nintendo hardware/software (Game Pak, Pal Park, etc)?](#Why-cant-most-flash-carts-interface-with-specialized-Nintendo-hardwaresoftware-Game-Pak-Pal-Park-etc)
     - [Why can't most flash carts utilize the Analogue Pocket's sleep functionality?](#Why-cant-most-flash-carts-utilize-the-Analogue-Pockets-sleep-functionality)
 
@@ -41,7 +40,7 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
     - Sapphire -> EZ-Flash Omega DE
     - Emerald -> EZ-Flash Omega DE
 - games without RTC
-    - preface - If you have a preferred play method for whatever reason, feel free to use it here as every play method has no negative effects due to a lack of RTC. However, keep in mind that only the BennVenn MBC3000 & insideGadgets carts will be compatible with the N64 Game Pak & the upcoming Analogue 3D for Pokémon Stadium integration (see [here](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokemon-Stadium-12)).
+    - preface - If you have a preferred play method for whatever reason, feel free to use it here as every play method has no negative effects due to a lack of RTC. However, keep in mind that only the BennVenn MBC3000 & insideGadgets carts will be compatible with the N64 Game Pak & the upcoming Analogue 3D for Pokémon Stadium integration (see [here](#Why-do-i-want-to-interface-my-gen-12-games-with-the-N64-transfer-pack--Pokémon-Stadium-12)).
     - Red -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
     - Blue -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
     - Green -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
