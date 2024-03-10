@@ -85,14 +85,13 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - cons
         - GBC carts
             - incompatible with Analogue Pocket's sleep feature
-            - time is not recalculated when save states are loaded (desync)
-            - **EverDrive GB X7 | BennVenn MBC3000 | insideGadgets carts** - time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits (see [manually reset RTC data](#manually-reset-RTC-data)).
+            - time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits (see [manually reset RTC data](#manually-reset-RTC-data)).
         - GBA carts
             - **EverDrive GBA Mini** - incompatible with Analogue Pocket's sleep feature
         - both
             - costs money
             - additional setup required
-            - rtc relies on internal batteries that eventually die 
+            - RTC relies on internal batteries that eventually die 
 3. #### authentic cartridges
     - pros
         - time is tracked while you aren't playing the game
@@ -122,7 +121,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 
 # relevant flash carts & surrounding nuance
 ### summary
-**There's little reason to use the EZ-Flash Jr. or EverDrive GB X7 after the release of [budude2's RTC compatible GBC Core](https://github.com/budude2/openfpga-GBC).** The best combination of carts for use with the Analogue Pocket is the [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-rtc-GBc-cart-v5) or insideGadgets GBC carts w/ RTC (see below), and the [EZ-Flash Omega DE](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1). Why? Because this gives you the most compatibility with the Analogue Pocket's sleep/save state functions, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
+**There's little reason to use the EZ-Flash Jr. or EverDrive GB X7 after the release of [budude2's RTC compatible GBC Core](https://github.com/budude2/openfpga-GBC).** The best combination of carts for use with the Analogue Pocket is the [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) or insideGadgets GBC carts w/ RTC (see below), and the [EZ-Flash Omega DE](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1). Why? Because this gives you the most compatibility with the Analogue Pocket's sleep/save state functions, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
 ### Game Boy Color
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
     - **!!! important !!!**
@@ -141,19 +140,19 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
     - For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior, is not possible via the EverDrive GB X7. There is no method of re-syncing in-game time with real time outside of external software, rom hacks, or in-game exploits.
     - incompatible with N64 Game Pak, and thus Pokémon Stadium.
-- #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-rtc-GBc-cart-v5) (**for use with the N64 Game Pak**)
+- #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) (**for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
     - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
-- #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/) (**for use with the N64 Game Pak**)
+- #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-RTC-flash-cart/) (**for use with the N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly more expensive that BennVenn's MBC3000
     - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
-- #### [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) (**for use with the N64 Game Pak**)
+- #### [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-RTC-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/) (**for use with the N64 Game Pak**)
     - **Does not** require an additional cart flashing tool, you can flash games directly via the USB-C port on the card.
     - Significantly more expensive that BennVenn's MBC3000 & insideGadgets non "LinkNLoad" cart, but possibly more convenient as an additonal flasher is not required.
     - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
@@ -255,9 +254,9 @@ There are three methods of playing pokemon on the Analogue Pocket.
 # product links
 - [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3D-4b88-bca2-8997e41410bb)
 - [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
-- [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-rtc-GBc-cart-v5)
-- [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-rtc-flash-cart/)
-- [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-rtc-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
+- [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5)
+- [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-RTC-flash-cart/)
+- [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-RTC-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
 - [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
 - [EZ-Flash Omega Definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
