@@ -18,7 +18,7 @@
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-SD-cards)
 - [manually reset RTC data](#manually-reset-RTC-data)
-- [convert save data to 2/3DS Virtual Console save data and back](convert-save-data-to-23DS-Virtual-Console-save-data-and-back)
+- [convert save data to 2/3DS Virtual Console save data and back](#convert-save-data-to-23DS-Virtual-Console-save-data-and-back)
 - [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
