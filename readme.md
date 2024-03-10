@@ -234,6 +234,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - cores/software
     - [Pocket Sync](https://github.com/neil-morrison44/pocket-sync/releases) (gui core installer | [guide](https://github.com/neil-morrison44/pocket-sync))
     - [fat32 formatter](http://ridgecrop.co.uk/index.htm?guiformat.htm) (required for >32GB micro SD cards used with EverDrive carts)
+    - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
 - firmware
     - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro SD card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
     - [EverDrive GB X7](https://krikzz.com/pub/support/EverDrive-GB/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
