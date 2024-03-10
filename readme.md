@@ -12,6 +12,7 @@
         - [EverDrive GB X7 (not recommended)](#EverDrive-GB-X7-not-recommended)
         - [BennVenn mbc3000 (recommended for use with the N64 Game Pak)](#BennVenn-MBC3000-recommended-for-use-with-the-N64-Game-Pak)
         - [insideGadgets GBC RTC cart (**recommended for use with the N64 Game Pak**)](#insideGadgets-GBC-RTC-cart-recommended-for-use-with-the-N64-Game-Pak)
+        - [insideGadgets GBC RTC LinkNLoad cart (**recommended for use with the N64 Game Pak**)](#insideGadgets-GBC-RTC-LinkNLoad-cart-recommended-for-use-with-the-N64-Game-Pak)
     - [Game Boy Advanced](#Game-Boy-Advanced)
         - [EZ-Flash Omega Definitive Edition (highly recommended 👑)](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-) 
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
