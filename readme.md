@@ -18,7 +18,7 @@
         - [EverDrive GBA Mini X5 (recommended)](#EverDrive-GBA-Mini-X5-recommended)
     - [micro SD cards](#micro-SD-cards)
 - [manually reset RTC data](#manually-reset-RTC-data)
-- [convert save data to 2/3DS Virtual Console save data and back](#convert-save-data-to-23DS-Virtual-Console-save-data-and-back)
+- [convert save data (Virtual Console)](#convert-save-data-Virtual-Console)
 - [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
@@ -213,7 +213,7 @@ There are three methods of playing pokemon on the Analogue pocket.
     - **authentic carts** - desolder the internal battery, solder in a new one.
     - rom hacks
 
-# convert save data to 2/3DS Virtual Console save data and back
+# convert save data (Virtual Console)
 - there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
     1. To acquire the GS Ball in Pokémon Crystal, so you can capture Celebi.
         1. save in-front of Lance (doesn't have to be your first time battling him)
