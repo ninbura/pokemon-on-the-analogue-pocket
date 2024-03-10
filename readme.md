@@ -247,7 +247,7 @@ There are three methods of playing pokemon on the Analogue pocket.
 - [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - BennVenn mbc3000 (basically just a normal cart | see Joey Jr guide below for usage)
-- [BennVenn Joey Jr v2++](https://BennVenn.myshopify.com/pages/the-joey-junior-GB-GBc-GBA-cart-dumper-and-flasher)
+- [BennVenn Joey Jr](https://BennVenn.myshopify.com/pages/the-joey-junior-GB-GBc-GBA-cart-dumper-and-flasher)
 - [EZ-Flash Omega DE manual](https://www.ezflash.cn/omegade-en.pdf)
 - [EZ-Flash Omega DE](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
 - [EZ-Flash Omega DE Mode B / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
