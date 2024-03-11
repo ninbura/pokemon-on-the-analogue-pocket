@@ -276,8 +276,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - [fat32 formatter](http://ridgecrop.co.uk/index.htm?guiformat.htm) (required for >32GB micro SD cards used with EverDrive carts)
     - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
 - firmware
-    - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezJunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro SD card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
-    - [EverDrive GB X7](https://krikzz.com/pub/support/EverDrive-GB/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
+    - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro SD card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
+    - [EverDrive GB X7](https://krikzz.com/pub/support/everdrive-gb/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
     - [BennVenn Joey Jr.](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr) ([guide](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher))
     - [EZ-Flash Omega DE](https://www.ezflash.cn/download/) ([guide](https://www.ezflash.cn/omegade-en.pdf#page=10))
     - [EverDrive GBA Mini](https://krikzz.com/pub/support/everdrive-gba/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
