@@ -129,7 +129,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 ### Game Boy Color
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
     - **!!! important !!!**
-        - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezJunior-fw5-0918.zip) is currently required for the Junior to function with an Analogue Pocket
+        - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) is currently required for the Junior to function with an Analogue Pocket
         - this unlisted firmware will cause your Junior to brick / die if you're not using a [fast enough micro SD card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
     - 3x cheaper than the EverDrive GB X7, albiet wtih an inferior physical build quality.
     - while time isn't recalculated after loading a save state, the in-game clock can be reset by manipulating the cart's internal clock
@@ -284,7 +284,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 
 # relevant guides
 - [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync/blob/main/README.md)
-- [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezJunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
+- [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher)
 - [EZ-Flash Omega DE manual](https://www.ezflash.cn/omegade-en.pdf)
