@@ -280,7 +280,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - [EverDrive GB X7](https://krikzz.com/pub/support/EverDrive-GB/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
     - [BennVenn Joey Jr.](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr) ([guide](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher))
     - [EZ-Flash Omega DE](https://www.ezflash.cn/download/) ([guide](https://www.ezflash.cn/omegade-en.pdf#page=10))
-    - [EverDrive GBA Mini](https://krikzz.com/pub/support/EverDrive-GBA/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
+    - [EverDrive GBA Mini](https://krikzz.com/pub/support/everdrive-gba/OS/) ([guide](https://ddavegames.neocities.org/guides/EverDriveGBX7/))
 
 # relevant guides
 - [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync/blob/main/README.md)
