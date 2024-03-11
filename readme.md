@@ -118,7 +118,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - direct links
     - [GBC by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GB-GBC) (RTC not implemented ❌)
     - [GBC by budude2](https://github.com/budude2/openfpga-GBC) (RTC implemented ✅)
-        - Note that this core does not crurrently have a sleep/save state implementation, and once implemented could cause RTC desync.
+        - Note that this core does not currently have a sleep/save state implementation, and once implemented could cause RTC desync.
         - I will update the guide when sleep/save state implemenation drops, hopefully it's implemented to account for RTC desync 🤞
     - [GBA by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GBA) (RTC not implemented ❌)
 
