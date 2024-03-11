@@ -141,7 +141,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
-    - For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior, is not possible via the EverDrive GB X7. There is no method of re-syncing in-game time with real time outside of external software, rom hacks, or in-game exploits.
+    - If you use sleep/save states, in-game time will become desynced with real time. For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior is not possible via the EverDrive GB X7 (see [manually reset RTC data](#manually-reset-RTC-data)).
     - incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) (**compatible w/ N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
