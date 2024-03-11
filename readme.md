@@ -1,4 +1,4 @@
-# definitive guide to playing Pokémon on the Analogue Pocket
+# Definitive Guide to Playing Pokémon on the Analogue Pocket
 - [introduction](#introduction)
 - [optimal play method per game as of 2024/03/09](#optimal-play-method-per-game-as-of-20240309)
 - [play methods & pros/cons](#play-methods--proscons)
