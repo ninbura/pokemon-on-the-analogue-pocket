@@ -65,7 +65,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
             - additional setup required 
     - cons
         - GBC RTC Core
-            - sleep/save states are unavailable
+            - sleep/save states are unavailable ([this is actively being worked on](https://github.com/budude2/openfpga-GBC/issues/9#issuecomment-1987241520))
         - GBA Core
             - time is only tracked when playing the game
             - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
