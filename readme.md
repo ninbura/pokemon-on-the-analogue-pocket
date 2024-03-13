@@ -75,6 +75,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - pros
         - GBC carts
             - save states are partially functional
+            - **EverDrive GB X7** - time is recalculated when utilizing the cart's internal save state function
             - **EZ-Flash Junior** - in-game clock can be reset via modification of cart's internal clock
             - **BennVenn MBC3000 & insideGadgets RTC carts** - compatible with N64 Gam Pak for use with Pokémon Stadium 1&2
         - GBA carts
@@ -89,7 +90,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - cons
         - GBC carts
             - incompatible with Analogue Pocket's sleep feature
-            - Time is desynced when save states are loaded & can't be resynced without external software, rom hacks, or exploits (see [manually reset RTC data](#manually-reset-RTC-data)).
+            - **EverDrive GB X7** - time is desynced when utilizing save states via the Analogue Pocket (see [manually reset RTC data](#manually-reset-RTC-data)).
+            - **EZ-Flash Junior | BennVenn MBC3000 | insideGadgets RTC carts** - time is desynced when save states are loaded (see [manually reset RTC data](#manually-reset-RTC-data))
         - GBA carts
             - **EverDrive GBA Mini** - incompatible with Analogue Pocket's sleep feature
         - both
@@ -126,7 +128,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 
 # relevant flash carts & surrounding nuance
 ### summary
-**There's little reason to use the EZ-Flash Jr. or EverDrive GB X7 after the release of [budude2's RTC compatible GBC Core](https://github.com/budude2/openfpga-GBC).** The best combination of carts for use with the Analogue Pocket is the [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) or insideGadgets GBC carts w/ RTC (see below), and the [EZ-Flash Omega DE](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1). Why? Because this gives you the most compatibility with the Analogue Pocket's sleep/save state functions, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
+**Note that if you're only using the Analogue Pocket, the GBC RTC core is the most reasonable option for gen 2 games given the price of everything else.** I would argue that the best combination of carts for use with the Analogue Pocket are the [EverDrive GB X7](#EverDrive-GB-X7), the [BennVenn MBC3000 (**compatible w/ N64 Game Pak**)](#BennVenn-MBC3000-compatible-w-N64-Game-Pak), and the [EZ-Flash Omega Definitive Edition](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-). Why? Because this gives you the most compatibility with sleep/save state functionality, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
 ### Game Boy Color
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
     - **!!! important !!!**
@@ -140,11 +142,12 @@ There are three methods of playing pokemon on the Analogue Pocket.
         4. re-sync the internal clock with real time
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
-    - incompatible with N64 Game Pak, and thus Pokémon Stadium.
+    - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
-    - If you use sleep/save states, in-game time will become desynced with real time. For whatever reason, the method mentioned above for resetting the in-game time via the EZ-Flash Junior is not possible via the EverDrive GB X7 (see [manually reset RTC data](#manually-reset-RTC-data)).
-    - incompatible with N64 Game Pak, and thus Pokémon Stadium.
+    - When utilizing the cart's internal save state function, RTC data is recalculated upon loading a state, keeping in-game time in-sync with real time.
+    - When utilizing the Analogue Pockets save state function, in-game time will become desynced with real time (see [manually reset RTC data](#manually-reset-RTC-data)).
+    - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) (**compatible w/ N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
