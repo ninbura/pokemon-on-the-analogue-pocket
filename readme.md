@@ -8,8 +8,8 @@
 - [relevant Cores & surrounding nuance](#relevant-cores--surrounding-nuance)
 - [relevant flash carts & surrounding nuance](#relevant-flash-carts--surrounding-nuance)
     - [Game Boy Color](#Game-Boy-Color)
-        - [EZ-Flash Junior](#EZ-Flash-Junior)
         - [EverDrive GB X7](#EverDrive-GB-X7)
+        - [EZ-Flash Junior](#EZ-Flash-Junior)
         - [BennVenn MBC3000 (**compatible w/ N64 Game Pak**)](#BennVenn-MBC3000-compatible-w-N64-Game-Pak)
         - [insideGadgets GBC RTC cart (**compatible w/ N64 Game Pak**)](#insideGadgets-GBC-RTC-cart-compatible-w-N64-Game-Pak)
         - [insideGadgets GBC RTC LinkNLoad cart (**compatible w/ N64 Game Pak**)](#insideGadgets-GBC-RTC-LinkNLoad-cart-compatible-w-N64-Game-Pak)
@@ -130,6 +130,11 @@ There are three methods of playing pokemon on the Analogue Pocket.
 ### summary
 **Note that if you're only using the Analogue Pocket, the GBC RTC core is the most reasonable option for gen 2 games given the price of everything else.** I would argue that the best combination of carts for use with the Analogue Pocket are the [EverDrive GB X7](#EverDrive-GB-X7), the [BennVenn MBC3000 (**compatible w/ N64 Game Pak**)](#BennVenn-MBC3000-compatible-w-N64-Game-Pak), and the [EZ-Flash Omega Definitive Edition](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-). Why? Because this gives you the most compatibility with sleep/save state functionality, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
 ### Game Boy Color
+- #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
+    - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
+    - When utilizing the cart's internal save state function, RTC data is recalculated upon loading a state, keeping in-game time in-sync with real time. **This is currently the only method for playing GBC games that allows for utilization of save states without RTC de-sync.**
+    - When utilizing the Analogue Pockets save state function, in-game time will become desynced with real time (see [manually reset RTC data](#manually-reset-RTC-data)).
+    - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
     - **!!! important !!!**
         - an unlisted / hard to find [firmware](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) is currently required for the Junior to function with an Analogue Pocket
@@ -142,11 +147,6 @@ There are three methods of playing pokemon on the Analogue Pocket.
         4. re-sync the internal clock with real time
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
-    - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
-- #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
-    - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
-    - When utilizing the cart's internal save state function, RTC data is recalculated upon loading a state, keeping in-game time in-sync with real time. **This is currently the only method for playing GBC games that allows for utilization of save states without RTC de-sync.**
-    - When utilizing the Analogue Pockets save state function, in-game time will become desynced with real time (see [manually reset RTC data](#manually-reset-RTC-data)).
     - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) (**compatible w/ N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
@@ -260,8 +260,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
       - from there follow [this](https://www.gamerevolution.com/guides/633108-transfer-to-pokemon-home-from-ds-3Ds-switch-pokemon-go) guide
 
 # product links
-- [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3D-4b88-bca2-8997e41410bb)
 - [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
+- [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3D-4b88-bca2-8997e41410bb)
 - [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5)
 - [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-RTC-flash-cart/)
 - [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-RTC-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
@@ -280,16 +280,16 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - [fat32 formatter](http://ridgecrop.co.uk/index.htm?guiformat.htm) (required for >32GB micro SD cards used with EverDrive carts)
     - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
 - firmware
-    - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro SD card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
     - [EverDrive GB X7](https://krikzz.com/pub/support/everdrive-gb/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
+    - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro SD card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
     - [BennVenn Joey Jr.](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr) ([guide](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher))
     - [EZ-Flash Omega DE](https://www.ezflash.cn/download/) ([guide](https://www.ezflash.cn/omegade-en.pdf#page=10))
     - [EverDrive GBA Mini](https://krikzz.com/pub/support/everdrive-gba/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
 
 # relevant guides
 - [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync/blob/main/README.md)
-- [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
+- [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher)
 - [EZ-Flash Omega DE manual](https://www.ezflash.cn/omegade-en.pdf)
 - [EZ-Flash Omega DE](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
