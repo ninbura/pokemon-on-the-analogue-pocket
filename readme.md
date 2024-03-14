@@ -169,7 +169,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 ### Game Boy Advanced
 - GBA flash carts cannot be used to play GBC games without utilizing emulation. This defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the Pocket's display.
 - #### [EZ-Flash Omega Definitive Edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
-    - 40% cheaper than the EverDrive GBA Mini x5 with similar build quality and *more features*
+    - 40% cheaper than the EverDrive GBA Mini X5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [Mode B / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
         - *please note that Mode B is not compatible with the latest Analogue Pocket firmware, but ez-flash is working on a fix.*
         - compatible with Analogue Pocket's sleep function in "standalone mode"
