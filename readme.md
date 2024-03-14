@@ -34,9 +34,9 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
 
 # optimal play method per game as of 2024/03/09 (IMO)
 - games with RTC
-    - Silver -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
-    - Gold -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
-    - Crystal -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
+    - Silver -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
+    - Gold -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
+    - Crystal -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
     - Ruby -> EZ-Flash Omega DE
     - Sapphire -> EZ-Flash Omega DE
     - Emerald -> EZ-Flash Omega DE
