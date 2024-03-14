@@ -32,7 +32,7 @@
 # introduction
 Some Pokémon games are unique due to their utilization of real-time clock, aka RTC. RTC keeps track of time while you aren't playing, essentially it syncs in-game time with real-time. In-game events/functions such as Pokémon catchability, the Move Tutor, Kurt's Apricorn Pokéballs, certain Pokémon evolutions, berry growth, lotteries, Secret Base battles, etc. depend on RTC. This causes complications depending on what method you're using to play Pokémon games on the Analogue Pocket. Bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/RTC effects in each generation of Pokémon. Generation 2 is much more dependant on RTC than generation 3, but it's important enough in both generations that I wouldn't consider playing without functional RTC.
 
-# optimal play method per game as of 2024/03/09
+# optimal play method per game as of 2024/03/09 (IMO)
 - games with RTC
     - Silver -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
     - Gold -> GBC RTC core / BennVenn MBC3000 or insideGadgets GBC RTC carts (Stadium 1&2)
