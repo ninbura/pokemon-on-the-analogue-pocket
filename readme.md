@@ -1,6 +1,6 @@
 # Definitive Guide to Playing Pokémon on the Analogue Pocket
 - [introduction](#introduction)
-- [optimal play method per game as of 2024/03/09](#optimal-play-method-per-game-as-of-20240309)
+- [optimal play method per game as of 2024/03/09](#optimal-play-method-per-game-as-of-20240309-imo)
 - [play methods & pros/cons](#play-methods--proscons)
     1. [cores](#cores)
     2. [flash carts](#flash-carts)
