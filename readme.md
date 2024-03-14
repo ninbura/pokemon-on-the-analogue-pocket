@@ -197,15 +197,18 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card
  
 # manually reset RTC data
+
 - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) (gen 2&3)
-    1. backup save data
-    2. run PKHeX
-    3. load backed up save file
-    4. select the "SAV" tab
-    5. select "Clock (RTC)"
-    6. click "Yes"
-    7. reload your save data into your cart/core
-    8. reset time when prompted to in-game
+    - Some flash carts store their RTC data in a separate file from the save, you may need to delete this as part of the RTC reset process.
+    - steps to reset RTC
+        1. backup save data
+        2. run PKHeX
+        3. load backed up save file
+        4. select the "SAV" tab
+        5. select "Clock (RTC)"
+        6. click "Yes"
+        7. reload your save data into your cart/core
+        8. reset time when prompted to in-game
 - gen 2
     - [in-game exploit](https://www.youtube.com/watch?v=Vupz6vwylGM&t)
     - EZ-Flash Junior
