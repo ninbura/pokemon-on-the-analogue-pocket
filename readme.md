@@ -148,7 +148,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
         5. launch your game
         6. follow the in-game prompts to re-set your in-game clock
     - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
-- #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5) (**compatible w/ N64 Game Pak**)
+- #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBC-cart-v5) (**compatible w/ N64 Game Pak**)
     - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
     - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
@@ -192,7 +192,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - *note that*
     - EverDrive requires that cards >32GB remain formatted as fat32. on microsoft windows, this requires a [special tool](http://ridgecrop.co.uk/index.htm?guiformat.htm).
     - the Omega DErequires that cards >32GB must be formatted as exfat
-- It is my recommendation that you use 32GB cards for everything to make things simple, realistically you'll never fill 32GB with GB/GBc/GBA roms.
+- It is my recommendation that you use 32GB cards for everything to make things simple, realistically you'll never fill 32GB with GB/GBC/GBA roms.
 - As mentioned above the EZ-Flash Junior specifically requires a fast micro SD card to function, the others will benefit from a fast micro SD card as well.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card
  
@@ -266,7 +266,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 # product links
 - [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
 - [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_2?crid=2827XS0JEDDSF&keywords=ez+flash+jr&qid=1677688333&sprefix=ez+flash+j%2Caps%2C200&sr=8-2&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3D-4b88-bca2-8997e41410bb)
-- [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBc-cart-v5)
+- [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBC-cart-v5)
 - [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-RTC-flash-cart/)
 - [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-RTC-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
@@ -286,7 +286,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - firmware
     - [EverDrive GB X7](https://krikzz.com/pub/support/everdrive-gb/x-series/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
     - [EZ-Flash Junior](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) (**use this specific firmware** with [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) specific micro SD card | [guide](https://www.youtube.com/watch?v=inus-2l5oeg))
-    - [BennVenn Joey Jr.](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr) ([guide](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher))
+    - [BennVenn Joey Jr.](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr) ([guide](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBC-GBA-cart-dumper-and-flasher))
     - [EZ-Flash Omega DE](https://www.ezflash.cn/download/) ([guide](https://www.ezflash.cn/omegade-en.pdf#page=10))
     - [EverDrive GBA Mini](https://krikzz.com/pub/support/everdrive-gba/OS/) ([guide](https://ddavegames.neocities.org/guides/everdrivegbx7/))
 
@@ -294,7 +294,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync/blob/main/README.md)
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
-- [BennVenn Joey Jr](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBc-GBA-cart-dumper-and-flasher)
+- [BennVenn Joey Jr](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBC-GBA-cart-dumper-and-flasher)
 - [EZ-Flash Omega DE manual](https://www.ezflash.cn/omegade-en.pdf)
 - [EZ-Flash Omega DE](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
 - [EZ-Flash Omega DE Mode B / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
