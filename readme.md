@@ -199,7 +199,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 # manually reset RTC data
 
 - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/) (gen 2&3)
-    - Some flash carts store their RTC data in a separate file from the save, you may need to delete this as part of the RTC reset process.
+    - Some flash carts store their RTC data in a separate file from the save file, you may need to delete the RTC file as part of the RTC reset process.
     - steps to reset RTC
         1. backup save data
         2. run PKHeX
