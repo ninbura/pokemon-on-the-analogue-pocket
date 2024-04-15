@@ -238,17 +238,19 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
 
 # acquiring the GS Ball in Pokémon Crystal
-1. save in-front of Lance (doesn't have to be your first time battling him)
-2. backup your save data
-3. convert your save data to VC data using [this tool](https://inject.sigkill.tech/converter/3Dsvc)
-4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant guides](#relevant-guides))
-5. defeat lance
-6. enter the Goldenrod City Pokémon Center
-7. exit the Goldenrod City Pokémon Center
-8. receive the GS Ball
-9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
-10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
-11. re-inject your save into your core/cart
+- see [convert save data (Virtual Console)](#convert-save-data-Virtual-Console) for more context.
+- steps
+    1. save in-front of Lance (doesn't have to be your first time battling him)
+    2. backup your save data
+    3. convert your save data to VC data using [this tool](https://inject.sigkill.tech/converter/3Dsvc)
+    4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant guides](#relevant-guides))
+    5. defeat lance
+    6. enter the Goldenrod City Pokémon Center
+    7. exit the Goldenrod City Pokémon Center
+    8. receive the GS Ball
+    9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
+    10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
+    11. re-inject your save into your core/cart
 
 # interfacing with Pokémon Home
 **Note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-Analogue-Pocket/issues/3**.
