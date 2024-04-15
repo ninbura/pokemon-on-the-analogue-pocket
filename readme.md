@@ -250,7 +250,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
     8. receive the GS Ball
     9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
     10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
-    11. re-inject your save into your core/cart
+      - You may need to rename the converted save to [game].sav, where [game] is the name of the rom (ie pokemoncrystal.sav).
+    12. re-inject your save into your core/cart
 
 # interfacing with Pokémon Home
 **Note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-Analogue-Pocket/issues/3**.
