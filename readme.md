@@ -301,7 +301,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - [EverDrive GBA Mini](https://www.youtube.com/watch?v=epLif4ju4F0)
 - [replace batteries in flash carts](https://GBAtemp.net/threads/ez-flash-omega-de-replacing-the-battery.612300/)
 - [backup saves on authentic carts](https://www.reddit.com/r/Gameboy/comments/4w8xjf/guide_how_to_backup_your_game_save_files/)
-- [mod 2/3DS systems & load checkpoint for save management](https://www.youtube.com/watch?v=ttHCJ1oFpDc)
+- [mod 2/3DS systems & load checkpoint for save management](https://www.youtube.com/watch?v=lAOvQTuVW5o)
 
 # frequently asked questions
 ### Why do I want to interface my gen 1&2 games with the N64 transfer pack / Pokémon Stadium 1&2?
