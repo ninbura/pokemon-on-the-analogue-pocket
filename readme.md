@@ -228,7 +228,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 # convert save data (Virtual Console)
 - there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
     1. To Capture Celebi in Pokémon Crystal (see [acquiring the GS Ball in Pokémon Crystal](#acquiring-the-GS-Ball-in-Pokémon-Crystal)).
-    2. To transfer Pokémon into Pokémon Home (see [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home))
+    2. To transfer Pokémon into Pokémon Home (see [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home)).
 - To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant guides](#relevant-guides) below for more info.
 - Note that in *all cases* your save file needs to be named "sav" with the `.dat` file extension for Virtual Console to read your save.
 - When using the online converters for gen 2 (more info below) this is handled for you. However, with gen 1 you don't use converters. So, you simply have to rename your save to `sav.dat` before injecting it with Checkpoint.
