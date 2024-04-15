@@ -225,6 +225,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - rom hacks
 
 # convert save data (Virtual Console)
+- Note that in *all cases* your save file needs to be named "sav" with the `.dat` file extension for Virtual Console to read you save.
+- When using the online converters (more info below) for gen 2 this is handled for you. However, with gen 1 you don't use converters. So, you simply have to rename your save to `sav.dat` before injecting it with Checkpoint.
 - there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
     1. To acquire the GS Ball in Pokémon Crystal, so you can capture Celebi.
         1. save in-front of Lance (doesn't have to be your first time battling him)
