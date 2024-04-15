@@ -20,6 +20,7 @@
     - [micro SD cards](#micro-SD-cards)
 - [manually reset RTC data](#manually-reset-RTC-data)
 - [convert save data (Virtual Console)](#convert-save-data-Virtual-Console)
+- [acquiring the GS Ball in Pokémon Crystal](#acquiring-the-GS-Ball-in-Pokémon-Crystal)
 - [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home)
 - [product links](#product-links)
 - [cores / software / firmware](#cores--software--firmware)
@@ -225,28 +226,29 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - rom hacks
 
 # convert save data (Virtual Console)
-- Note that in *all cases* your save file needs to be named "sav" with the `.dat` file extension for Virtual Console to read you save.
-- When using the online converters (more info below) for gen 2 this is handled for you. However, with gen 1 you don't use converters. So, you simply have to rename your save to `sav.dat` before injecting it with Checkpoint.
 - there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
-    1. To acquire the GS Ball in Pokémon Crystal, so you can capture Celebi.
-        1. save in-front of Lance (doesn't have to be your first time battling him)
-        2. backup your save data
-        3. convert your save data to VC data using [this tool](https://inject.sigkill.tech/converter/3Dsvc)
-        4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant guides](#relevant-guides))
-        5. defeat lance
-        6. enter the Goldenrod City Pokémon Center
-        7. exit the Goldenrod City Pokémon Center
-        8. receive the GS Ball
-        9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
-        10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
-        11. re-inject your save into your core/cart
+    1. To acquire the GS Ball in Pokémon Crystal, so you can capture Celebi (see [acquiring the GS Ball in Pokémon Crystal](#acquiring-the-GS-Ball-in-Pokémon-Crystal).
     2. To transfer Pokémon into Pokémon Home (see [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home))
 - To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant guides](#relevant-guides) below for more info.
-- save files are slightly different for GBC carts & cores vs Virtual Console save data, so you'll want to use converters to avoid corruption and incompatability.
+- Note that in *all cases* your save file needs to be named "sav" with the `.dat` file extension for Virtual Console to read your save.
+- When using the online converters for gen 2 (more info below) this is handled for you. However, with gen 1 you don't use converters. So, you simply have to rename your save to `sav.dat` before injecting it with Checkpoint.
+- gen 2 save files are slightly different for GBC carts & cores vs Virtual Console save data. So, you'll want to use converters to avoid corruption and incompatability.
     - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3Dsvc)
-        - This is only required for gen 2, gen 1 saves don't need in-bound conversion.
         - Note that once converted to a VC save, save files will no longer be compatible with PKHeX. Use the next converter to solve this.
     - [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
+
+# acquiring the GS Ball in Pokémon Crystal
+1. save in-front of Lance (doesn't have to be your first time battling him)
+2. backup your save data
+3. convert your save data to VC data using [this tool](https://inject.sigkill.tech/converter/3Dsvc)
+4. transfer your save into Crystal Virtual Console edition using checkpoint (see [relevant guides](#relevant-guides))
+5. defeat lance
+6. enter the Goldenrod City Pokémon Center
+7. exit the Goldenrod City Pokémon Center
+8. receive the GS Ball
+9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
+10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
+11. re-inject your save into your core/cart
 
 # interfacing with Pokémon Home
 **Note that you can can transfer Gen 4-6 from 3DS into Pokémon Home *without using retail cartridges* as mentioned in https://github.com/ninbura/pokemon-on-the-Analogue-Pocket/issues/3**.
