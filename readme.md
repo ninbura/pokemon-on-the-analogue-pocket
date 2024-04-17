@@ -236,6 +236,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3Dsvc)
         - Note that once converted to a VC save, save files will no longer be compatible with PKHeX. Use the next converter to solve this.
     - [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
+        - After conversion with this tool, you may need to rename the converted save to [game].sav, where [game] is the name of the rom (ie pokemoncrystal.sav).
 
 # acquiring the GS Ball in Pokémon Crystal
 - see [convert save data (Virtual Console)](#convert-save-data-Virtual-Console) for more context.
@@ -250,7 +251,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     8. receive the GS Ball
     9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
     10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
-      - You may need to rename the converted save to [game].sav, where [game] is the name of the rom (ie pokemoncrystal.sav).
+      - After conversion with this tool, you may need to rename the converted save to [game].sav, where [game] is the name of the rom (ie pokemoncrystal.sav).
     12. re-inject your save into your core/cart
 
 # interfacing with Pokémon Home
