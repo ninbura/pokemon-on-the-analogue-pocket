@@ -251,7 +251,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     8. receive the GS Ball
     9. backup your save data using checkpoint (see [relevant guides](#relevant-guides))
     10. re-convert you save data using [this tool](https://savefileconverter.com/#/flash-carts)
-      - After conversion with this tool, you may need to rename the converted save to [game].sav, where [game] is the name of the rom (ie pokemoncrystal.sav).
+        - After conversion with this tool, you may need to rename the converted save to [game].sav, where [game] is the name of the rom (ie pokemoncrystal.sav).
     12. re-inject your save into your core/cart
 
 # interfacing with Pokémon Home
