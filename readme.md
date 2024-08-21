@@ -80,7 +80,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
             - **BennVenn MBC3000 & insideGadgets RTC carts** - compatible with N64 Gam Pak for use with Pokémon Stadium 1&2
         - GBA carts
             - save states are fully functional
-            - time is recalculated when save states are loaded (always in-sync)
+            - time is recalculated when save states are loaded (always in sync)
         - both
             - much cheaper than authentic carts in the grand scheme of things
             - time is tracked while you aren't playing
