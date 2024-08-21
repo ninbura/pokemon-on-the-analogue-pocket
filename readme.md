@@ -89,10 +89,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - cons
         - GBC carts
             - incompatible with Analogue Pocket's sleep feature
-            - **EverDrive GB X7** - time is desynced when utilizing save states via the Analogue Pocket (see [manually reset RTC data](#manually-reset-RTC-data)).
-            - **EZ-Flash Junior | BennVenn MBC3000 | insideGadgets RTC carts** - time is desynced when save states are loaded (see [manually reset RTC data](#manually-reset-RTC-data))
-        - GBA carts
-            - **EverDrive GBA Mini** - incompatible with Analogue Pocket's sleep feature
+            - time is desynced when save states are loaded via the Analogue Pocket (see [manually reset RTC data](#manually-reset-RTC-data))
         - both
             - costs money
             - additional setup required
