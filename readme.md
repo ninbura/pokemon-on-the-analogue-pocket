@@ -57,6 +57,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - pros
         - GBC RTC Core
             - time is tracked while you aren't playing the game
+            - time does not desync with the use of save states
         - GBA Core
             - sleep/save states are partially functional
         - both
@@ -65,8 +66,6 @@ There are three methods of playing pokemon on the Analogue Pocket.
             - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
             - additional setup required 
     - cons
-        - GBC RTC Core
-            - sleep/save states are unavailable ([this is actively being worked on](https://github.com/budude2/openfpga-GBC/issues/9#issuecomment-1987241520))
         - GBA Core
             - time is only tracked when playing the game
             - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
@@ -76,13 +75,12 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - pros
         - GBC carts
             - save states are partially functional
-            - **EverDrive GB X7** - time is recalculated when utilizing the cart's internal save state function
+            - **EverDrive GB X7** - Time is recalculated when utilizing the cart's internal save state function. However, many users have reported that loading a save state breaks in-game saving.
             - **EZ-Flash Junior** - in-game clock can be reset via manipulation of cart's internal clock
             - **BennVenn MBC3000 & insideGadgets RTC carts** - compatible with N64 Gam Pak for use with Pokémon Stadium 1&2
         - GBA carts
             - save states are fully functional
             - time is recalculated when save states are loaded (always in-sync)
-            - **EZ-Flash Omega DE** - compatible with Analogue Pocket's sleep feature
         - both
             - much cheaper than authentic carts in the grand scheme of things
             - time is tracked while you aren't playing
@@ -122,18 +120,16 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - direct links
     - [GBC by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GB-GBC) (RTC not implemented ❌)
     - [GBC by budude2](https://github.com/budude2/openfpga-GBC) (RTC implemented ✅)
-        - Note that this core does not currently have a sleep/save state implementation, and once implemented could cause RTC desync.
-        - I will update the guide when sleep/save state implemenation drops, hopefully it's implemented to account for RTC desync 🤞
-        - You can follow updates regarding sleep/save state development for budude2's core [here](https://github.com/budude2/openfpga-GBC/issues/9#).
     - [GBA by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GBA) (RTC not implemented ❌)
+    - GBA by budude2 (work in progress)
 
 # relevant flash carts & surrounding nuance
 ### summary
-**Note that if you're only using the Analogue Pocket, the GBC RTC core is the most reasonable option for gen 2 games given the price of everything else.** I would argue that the best combination of carts for use with the Analogue Pocket are the [EverDrive GB X7](#EverDrive-GB-X7), the [BennVenn MBC3000 (**compatible w/ N64 Game Pak**)](#BennVenn-MBC3000-compatible-w-N64-Game-Pak), and the [EZ-Flash Omega Definitive Edition](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-). Why? Because this gives you the most compatibility with sleep/save state functionality, and official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
+**Note that if you're only using the Analogue Pocket, [budude's GBC RTC core](https://github.com/budude2/openfpga-GBC) is the most reasonable option. You only need a GBC cart if you're interfacing with other hardware.** I would argue that the best combination of carts for use with the Analogue Pocket are the [BennVenn MBC3000 (**compatible w/ N64 Game Pak**)](#BennVenn-MBC3000-compatible-w-N64-Game-Pak), and the [EZ-Flash Omega Definitive Edition](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-). Why? Because this gives you the most compatibility with official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment](https://x.com/Analogue/status/1713933239327273452?s=20) of the Analogue 3D.
 ### Game Boy Color
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
-    - When utilizing the cart's internal save state function, RTC data is recalculated upon loading a state, keeping in-game time in-sync with real time. **This is currently the only method for playing GBC games that allows for utilization of save states without RTC de-sync.**
+    - When utilizing the cart's internal save state function, RTC data is recalculated upon loading a state, keeping in-game time in-sync with real time. However, for some users this seems to break the ability to save your game via the in-game saving mechanism.
     - When utilizing the Analogue Pockets save state function, in-game time will become desynced with real time (see [manually reset RTC data](#manually-reset-RTC-data)).
     - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
@@ -173,7 +169,6 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - 40% cheaper than the EverDrive GBA Mini X5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [Mode B / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
         - *please note that Mode B is not compatible with the latest Analogue Pocket firmware, ez-flash states ["...it must be done by AP side."](https://gbatemp.net/threads/ez-flash-omega-fw9-for-analogue-pocket-users.617114/#post-10426144).*
-        - compatible with Analogue Pocket's sleep function in "standalone mode"
         - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
 - #### [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
     - much cheaper than the Omega DE & GBA Mini
@@ -181,7 +176,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - Battery is soldered in, making it much more difficult to replace.
 - #### [EverDrive GBA Mini X5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html)
     - 40% more expensive than the EZ-Flash Omega DE with similar build quality and *less features*
-    - Not compatible with stand alone cart functions, like the Analogue Pocket's sleep functionality, or Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
+    - Not compatible with stand alone cart functions like Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
 ### micro SD cards
 - EZ-Flash & EverDrive carts utilize micro SD cards
 - both cart manufacturers state that <=32GB must be formatted as fat32
