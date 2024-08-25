@@ -88,9 +88,9 @@ There are three methods of playing pokemon on the Analogue Pocket.
             - save files are easily accessible for backup
     - cons
         - GBC carts
-            - incompatible with Analogue Pocket's sleep feature
             - time is desynced when save states are loaded via the Analogue Pocket (see [manually reset RTC data](#manually-reset-RTC-data))
         - both
+            - incompatible with Analogue Pocket's sleep feature
             - costs money
             - additional setup required
             - RTC relies on internal batteries that eventually die 
@@ -115,10 +115,10 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - There are no GBA cores that support RTC, so you'll want to use a GBA flash cart. Several are mentioned below.
 - I recommend installing all cores using [Pocket Sync](https://github.com/neil-morrison44/Pocket-sync), but make sure you select the proper GBC core, the one that supports RTC (budude2's core).
 - direct links
-    - [GBC by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GB-GBC) (RTC not implemented ❌)
     - [GBC by budude2](https://github.com/budude2/openfpga-GBC) (RTC implemented ✅)
-    - [GBA by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GBA) (RTC not implemented ❌)
     - GBA by budude2 (work in progress)
+    - [GBC by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GB-GBC) (RTC not implemented ❌)
+    - [GBA by spiritualized1997](https://github.com/spiritualized1997/openFPGA-GBA) (RTC not implemented ❌)
 
 # relevant flash carts & surrounding nuance
 ### summary
