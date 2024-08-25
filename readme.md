@@ -169,7 +169,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
         - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
 - #### [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
     - much cheaper than the Omega DE & GBA Mini
-    - Not compatible with stand alone cart functions, like the Analogue Pocket's sleep functionality, or Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
+    - Not compatible with stand alone cart functions, like Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
     - Battery is soldered in, making it much more difficult to replace.
 - #### [EverDrive GBA Mini X5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html)
     - 40% more expensive than the EZ-Flash Omega DE with similar build quality and *less features*
@@ -184,7 +184,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - EZ-Flash Omega DE
 - *note that*
     - EverDrive requires that cards >32GB remain formatted as fat32. on microsoft windows, this requires a [special tool](http://ridgecrop.co.uk/index.htm?guiformat.htm).
-    - the Omega DErequires that cards >32GB must be formatted as exfat
+    - the Omega DE requires that cards >32GB must be formatted as exfat
 - It is my recommendation that you use 32GB cards for everything to make things simple, realistically you'll never fill 32GB with GB/GBC/GBA roms.
 - As mentioned above the EZ-Flash Junior specifically requires a fast micro SD card to function, the others will benefit from a fast micro SD card as well.
 - I recommend [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card
