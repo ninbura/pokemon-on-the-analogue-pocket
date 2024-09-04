@@ -34,20 +34,28 @@
 Some Pokémon games are unique due to their utilization of real-time clock, aka RTC. RTC keeps track of time while you aren't playing, essentially it syncs in-game time with real-time. In-game events/functions such as Pokémon catchability, the Move Tutor, Kurt's Apricorn Pokéballs, certain Pokémon evolutions, berry growth, lotteries, Secret Base battles, etc. depend on RTC. This causes complications depending on what method you're using to play Pokémon games on the Analogue Pocket. Bulbagarden has a nice [write up](https://bulbapedia.bulbagarden.net/wiki/Time) on what time/RTC effects in each generation of Pokémon. Generation 2 is much more dependant on RTC than generation 3, but it's important enough in both generations that I wouldn't consider playing without functional RTC.
 
 # optimal play method per game
+### preface
+See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase/download links.
+### optimal play methods
 - games with RTC
-    - Silver -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
-    - Gold -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
-    - Crystal -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
+    - Silver -> budude's GBC core
+    - Gold -> budude's GBC core
+    - Crystal -> budude's GBC core
     - Ruby -> EZ-Flash Omega DE
     - Sapphire -> EZ-Flash Omega DE
     - Emerald -> EZ-Flash Omega DE
 - games without RTC
-    - Red -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
-    - Blue -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
-    - Green -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
-    - Yellow -> GBC RTC core / BennVenn MBC3000 (Stadium 1&2)
+    - Red -> budude's GBC core
+    - Blue -> budude's GBC core
+    - Green -> budude's GBC core
+    - Yellow -> budude's GBC core
     - Fire Red -> GBA core
     - Leaf Green -> GBA core
+- interop with Pokémon Stadium
+    - BennVenn MBC3000
+    - insideGadgets GBC RTC carts
+- interop with Pokémon Pal Park
+    - EZ-Flash Omega DE
 
 # play methods & pros/cons
 There are three methods of playing pokemon on the Analogue Pocket.
