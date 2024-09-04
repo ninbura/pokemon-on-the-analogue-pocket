@@ -59,12 +59,12 @@ There are three methods of playing pokemon on the Analogue Pocket.
             - free
             - save files are easily accesible for backup
             - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
-            - additional setup required 
     - cons
         - GBA Core
             - time is only tracked when playing the game
             - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
         - both
+            - additional setup required  
             - incapable of interfacing with some Nintendo hardware/software (N64 Game Pak, Pal Park, etc.)
 2. #### flash carts
     - pros
