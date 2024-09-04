@@ -21,7 +21,8 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
 
 # optimal play method per game
 ### preface
-See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase/download links. See [play methods & pros/cons](#play-methods--proscons) for pro/cons of each method.
+- See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase/download links.
+- See [play methods & pros/cons](#play-methods--proscons) for pro/cons of each play method.
 ### optimal play methods
 - games with RTC
     - Silver -> budude's GBC core
