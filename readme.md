@@ -35,7 +35,7 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
 
 # optimal play method per game
 ### preface
-See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase/download links.
+See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase/download links. See [play methods & pros/cons](#play-methods--proscons) for pro/cons of each method.
 ### optimal play methods
 - games with RTC
     - Silver -> budude's GBC core
@@ -89,6 +89,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
         - GBA carts
             - save states are fully functional
             - time is recalculated when save states are loaded (always in sync)
+            - **EZ-Flash Omega DE** - Mode B allows for use of the Pocket's sleep functionality
+            - **EZ-Flash Omega DE** - Mode B allows for interop with Pokémon Pal Park
         - both
             - much cheaper than authentic carts in the grand scheme of things
             - time is tracked while you aren't playing
@@ -98,7 +100,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
         - GBC carts
             - time is desynced when save states are loaded via the Analogue Pocket (see [manually reset RTC data](#manually-reset-RTC-data))
         - both
-            - incompatible with Analogue Pocket's sleep feature
+            - **EverDrive GBA Mini X5** - incompatible with Analogue Pocket's sleep feature
             - costs money
             - additional setup required
             - RTC relies on internal batteries that eventually die 
@@ -173,8 +175,8 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - #### [EZ-Flash Omega Definitive Edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the EverDrive GBA Mini X5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [Mode B / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
-        - *please note that Mode B is not compatible with the latest Analogue Pocket firmware, ez-flash states ["...it must be done by AP side."](https://gbatemp.net/threads/ez-flash-omega-fw9-for-analogue-pocket-users.617114/#post-10426144).*
-        - Allows for flashing a game to memory and running it in "standalone" mode. This functionality allows for interfacing with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
+        - Allows for use of the Analogue Pocket's sleep functionality.
+        - Allows for interop with Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park) to transfer Pokémon from gen 3 to gen 4 via a Nintendo DS.
 - #### [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
     - much cheaper than the Omega DE & GBA Mini
     - Not compatible with stand alone cart functions, like Pokémon [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park).
