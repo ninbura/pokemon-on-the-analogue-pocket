@@ -122,6 +122,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 # relevant flash carts & surrounding nuance
 ### preface
 - Note that if you're only using the Analogue Pocket, [budude's GBC RTC core](https://github.com/budude2/openfpga-GBC) is the most reasonable option for GB/GBC. You only need a GBC cart if you're interfacing with other hardware.
+- GBA flash carts cannot be used to play GBC games without utilizing emulation. This defeats the purpose of FPGA, and games are noticably letterboxed, taking up only a small fraction of the Pocket's display.
 - It is likely *required* that you have authentic Nintendo hardware on hand to perform inital firmware updates. Most carts ship with old firmware that is incompatible with the Analogue Pocket.
 - I would argue that the best combination of carts for use with the Analogue Pocket are the [BennVenn MBC3000](#BennVenn-MBC3000-compatible-w-N64-Game-Pak), and the [EZ-Flash Omega Definitive Edition](#EZ-Flash-Omega-Definitive-Edition-highly-recommended-). Why? Because this gives you the most compatibility with official Nintendo hardware/software (N64 Game Pak, Pal Park, etc). Functionality with the N64 Game Pak is particularly relevant given [the announcment of the Analogue 3D](https://x.com/Analogue/status/1713933239327273452?s=20).
 ### Game Boy Color
@@ -162,7 +163,6 @@ There are three methods of playing pokemon on the Analogue Pocket.
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 ### Game Boy Advanced
-- GBA flash carts cannot be used to play GBC games without utilizing emulation. This defeats the purpose of fpga and games are noticably letterboxed, taking up only a small fraction of the Pocket's display.
 - #### [EZ-Flash Omega Definitive Edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1) (**highly recommended 👑**)
     - 40% cheaper than the EverDrive GBA Mini X5 with similar build quality and *more features*
     - a physical switch on the outside of the cart allows you to enter [Mode B / standalone mode](https://www.ezflash.cn/omegade-en.pdf#page=13)
