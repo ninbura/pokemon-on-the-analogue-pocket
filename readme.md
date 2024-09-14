@@ -146,13 +146,13 @@ There are three methods of playing pokemon on the Analogue Pocket.
         6. follow the in-game prompts to re-set your in-game clock
     - Incompatible with N64 Game Pak, and thus Pokémon Stadium.
 - #### [BennVenn MBC3000](https://BennVenn.myshopify.com/products/MBC3000-RTC-GBC-cart-v5) (**compatible w/ N64 Game Pak**)
-    - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
+    - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable (like the [GB Operator](https://www.epilogue.co/product/gb-operator)), to flash games to the cartridge.
     - significantly less expensive that insideGadgets offerings
     - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
     - As only one game is loaded at a time, *this cart **is compatible** with the N64 Game Pak / Pokémon Stadium*.
 - #### [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-RTC-flash-cart/) (**compatible w/ N64 Game Pak**)
-    - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable, to flash games to the cartridge.
+    - Requires [BennVenn's Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr), or something comparable (like the [GB Operator](https://www.epilogue.co/product/gb-operator)), to flash games to the cartridge.
     - significantly more expensive that BennVenn's MBC3000
     - time is desynced when save states are loaded without use of external applications or in-game exploits (see [manually reset RTC data](#manually-reset-RTC-data))
     - Unlike other carts, there is no SD card, and only one game can be stored on the cart at a time.
@@ -239,7 +239,7 @@ Note that after you extract your save, it is very likely you mess up your RTC da
     9. Extract the `.sav` file from your Pocket's Micro SD Card, saves are located in the `Saves` folder in the root of the SD card.
 - with additional hardware
     - The two most popular cart/save dumping tools are the BennVenn Joey Jr. and the GB Operator.
-    - See [product links](#product-links) and [relevant guides](#relevant-guides) for purchase links and more information on regarding these products.
+    - See [product links](#product-links) and [relevant guides](#relevant-guides) for purchase links and more information regarding these products.
 
 # convert save data (Virtual Console)
 ### preface
@@ -299,6 +299,7 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 - [insideGadgets GBC RTC cart](https://shop.insidegadgets.com/product/gameboy-2mb-32kb-fram-mbc3-with-RTC-flash-cart/)
 - [insideGadgets GBC RTC LinkNLoad cart](https://shop.insidegadgets.com/product/gameboy-mbc3-RTC-linknload-usb-flash-cart-works-with-pokemon-games-hacks-like-cc/)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/products/usb-GB-c-cart-dumper-the-joey-jr)
+- [GB Operator](https://www.epilogue.co/product/gb-operator)
 - [EZ-Flash Omega](https://www.amazon.com/EZ-Flash-MicroSDHC-Version-Latest/dp/B01GZMNRP6/ref=sr_1_2?crid=6NN7MN3GBTZT&dib=eyJ2IjoiMSJ9.SmTKXapduSgeZ_JdvicuRg4thNulTgxNWppXvD3cVmruPRG7yPAjotgKgyc1wKtwigxpazDeuFgHgnOV_zpsq1mn0Th_iDztT9kPZp5RSn1s009V88zbHYb2gZu2KCi1AXAahSIB0-D1KX4pFzYBNVapK8S44b1lRS1ymXw7bVqD1TB05gF5hRpm_DUvT8SIlbhwbS5v5MCekxO5ftuNDT7xiU0v1pjWvHZYN8TdPRg.dN_DrbgQmKs7ELYJycj41FE9W46kpq8ZMmUnn0-giik&dib_tag=se&keywords=EZ-Flash+Omega&qid=1710045811&sprefix=ez-flash+omeg%2Caps%2C157&sr=8-2)
 - [EZ-Flash Omega Definitive edition](https://www.amazon.com/EZ-Definitive-GBA-IMPEX-Source/dp/B097NQ6HV8/ref=sr_1_1?crid=318IO187XHCX6&keywords=ez+flash+omega+definitive+edition&qid=1700285292&sprefix=ezflash+%2Caps%2C157&sr=8-1)
 - [EverDrive GBA Mini x5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html)
@@ -324,6 +325,7 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 - [EverDrive GB X7](https://www.youtube.com/watch?v=p9IYgMTvl2c)
 - [EZ-Flash Junior](https://www.youtube.com/watch?v=rqeFD8SRbVA) (please use [this](https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) firmware & [this](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13) micro SD card)
 - [BennVenn Joey Jr](https://BennVenn.myshopify.com/pages/the-joey-Junior-GB-GBC-GBA-cart-dumper-and-flasher)
+- [GB Operator](https://support.epilogue.co/hc/en-us/articles/360018602980-GB-Operator-FAQ)
 - [EZ-Flash Omega DE manual](https://www.ezflash.cn/omegade-en.pdf)
 - [EZ-Flash Omega DE](https://www.youtube.com/watch?v=CBPoAjBfV0M&t)
 - [EZ-Flash Omega DE Mode B / standalone mode](https://youtu.be/MSWgdfbpgPI?t=129)
