@@ -228,15 +228,15 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 - Saves created by Cores can be found in the `Saves` folder in the root of the Micro SD card in your Analogue Pocket.
 ### retail cartridges
 - without additional hardware
-    1. Install a GBC/GBA core, I recommend using Pocket Sync for this, see [cores / software / firmware](#cores--software--firmware).
-    2. Add the the ROM of the game you're trying to backup to the core you installed. The "Games" section in Pocket Sync will expose the ROM locations of cores you have installed.
+    1. Install a GBC/GBA Core, I recommend using Pocket Sync for this, see [cores / software / firmware](#cores--software--firmware).
+    2. Add the the ROM of the game you're trying to backup to the Core you installed. The "Games" section in Pocket Sync will expose the ROM locations of Cores you have installed.
     3. insert and boot your cartridge
     4. load your in-game save file
     5. create a save state via the Analogue Pocket (`Analogue Button + D-Pad Up`)
     6. load the ROM of the same game on your cartridge via a Core
     7. load the save state you created via the cartridge
     8. save in-game via the Core
-    9. Extract the `.sav` file from your Pocket's Micro SD Card, saves are located in the `Saves` folder in the root of the SD card.
+    9. Extract the `.sav` file from your Pocket's Micro SD Card, saves are located in the `Saves` folder in the root of the Micro SD card.
 - with additional hardware
     - The two most popular cart/save dumping tools are the BennVenn Joey Jr. and the GB Operator.
     - See [product links](#product-links) and [relevant guides](#relevant-guides) for purchase links and more information regarding these products.
@@ -251,7 +251,7 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 ### gen 1
 - Simply rename your save `[game name].sav` file to `sav.dat` before injecting it with Checkpoint.
 - When you extract your save from the Virtual Console version using Checkpoint, you will need to rename the file from `sav.dat` to `[game].sav`, where `[game]` is the name of the rom (ie `pokemonyellow.sav`).
-- There appears to be an extra KB of data in Gen 1 Virtual Console saves that prevents them from being loaded in PKHeX. To fix this, you need to load your save file via the Analogue Pocket, and overwrite it in-game. This should recondition the file, making it compatible with PLHeX again.
+- There appears to be an extra KB of data in Gen 1 Virtual Console saves that prevents them from being loaded in PKHeX. To fix this, you need to load your save file via the Analogue Pocket, and overwrite it in-game. This should recondition the file, making it compatible with PKHeX again.
 ### gen 2
 - Generation 2 save files need to be converted when moved between Virtual Console & your Analogue Pocket.
 - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3Dsvc)
