@@ -8,6 +8,7 @@
     - [Game Boy Advanced](#Game-Boy-Advanced)
     - [micro SD cards](#micro-SD-cards)
 - [manually reset RTC data](#manually-reset-RTC-data)
+- [backing up / extracting save data](#backing-up--extracting-save-data)
 - [convert save data (Virtual Console)](#convert-save-data-Virtual-Console)
 - [acquiring the GS Ball in Pokémon Crystal](#acquiring-the-GS-Ball-in-Pokémon-Crystal)
 - [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home)
@@ -217,19 +218,46 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - gen 3
     - **authentic carts** - desolder the internal battery, solder in a new one.
     - rom hacks
+ 
+# backing up / extracting save data
+### preface
+Note that after you extract your save, it is very likely you mess up your RTC data. See the [manually reset RTC data](#manually-reset-RTC-data) section in this guide to learn how you can reset your RTC data as needed.
+### cores & flash carts
+- As mentioned in the pro/cons section, backing up / extracting save data created by cores & flash carts is trivial.
+- It would be impractical to list save locations for all flash carts in this guide, best to refer to the official documentation of the cart you're using. See [relevant guides](#relevant-guides) for product documentation, and video guides that should cover this topic.
+- Saves created by Cores can be found in the `Saves` folder in the root of the Micro SD card in your Analogue Pocket.
+### retail cartridges
+- without additional hardware
+    1. Install a GBC/GBA core, I recommend using Pocket Sync for this, see [cores / software / firmware](#cores--software--firmware).
+    2. Add the the ROM of the game you're trying to backup to the core you installed. The "Games" section in Pocket Sync will expose the ROM locations of cores you have installed.
+    3. insert and boot your cartridge
+    4. load your in-game save file
+    5. create a save state via the Analogue Pocket (`Analogue Button + D-Pad Up`)
+    6. load the ROM of the same game on your cartridge via a Core
+    7. load the save state you created via the cartridge
+    8. save in-game via the Core
+    9. Extract the `.sav` file from your Pocket's Micro SD Card, saves are located in the `Saves` folder in the root of the SD card.
+- with additional hardware
+    - The two most popular cart/save dumping tools are the BennVenn Joey Jr. and the GB Operator.
+    - See [product links](#product-links) and [relevant guides](#relevant-guides) for purchase links and more information on regarding these products.
 
 # convert save data (Virtual Console)
+### preface
 - there are a couple reasons why you'd want to transfer your save data between your Pocket and your 2/3DS virtual console
     1. To Capture Celebi in Pokémon Crystal (see [acquiring the GS Ball in Pokémon Crystal](#acquiring-the-GS-Ball-in-Pokémon-Crystal)).
     2. To transfer Pokémon into Pokémon Home (see [interfacing with Pokémon Home](#interfacing-with-Pokémon-Home)).
 - To transfer saves into the Virtual Console versions, you'll need a modded 2/3DS running Checkpoint. See [relevant guides](#relevant-guides) below for more info.
-- Note that in *all cases* your save file must be named "sav" with the `.dat` file extension for Virtual Console to read your save.
-- When using the online converters for gen 2 (more info below) this is handled for you. However, with gen 1 you don't use converters. So, you simply have to rename your save to `sav.dat` before injecting it with Checkpoint.
-- gen 2 save files are slightly different for GBC carts & cores vs Virtual Console save data. So, you'll want to use converters to avoid corruption and incompatability.
-    - [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3Dsvc)
-        - Note that once converted to a VC save, save files will no longer be compatible with PKHeX. Use the next converter to solve this.
-    - [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
-        - After conversion with this tool, you may need to rename the converted save to `[game].sav`, where `[game]` is the name of the rom (ie `pokemoncrystal.sav`).
+- See [backing up / extracting save data](#backing-up--extracting-save-data) for instructions as to how you acquire your `.sav` files.
+### gen 1
+- Simply rename your save `[game name].sav` file to `sav.dat` before injecting it with Checkpoint.
+- When you extract your save from the Virtual Console version using Checkpoint, you will need to rename the file from `sav.dat` to `[game].sav`, where `[game]` is the name of the rom (ie `pokemonyellow.sav`).
+- There appears to be an extra KB of data in Gen 1 Virtual Console saves that prevents them from being loaded in PKHeX. To fix this, you need to load your save file via the Analogue Pocket, and overwrite it in-game. This should recondition the file, making it compatible with PLHeX again.
+### gen 2
+- Generation 2 save files need to be converted when moved between Virtual Console & your Analogue Pocket.
+- [normal save to Virtual Console converter](https://inject.sigkill.tech/converter/3Dsvc)
+    - Note that once converted to a VC save, save files will no longer be compatible with PKHeX. Use the next converter to solve this.
+- [Virtual Console to normal save converter](https://savefileconverter.com/#/flash-carts)
+    - After conversion with this tool, you will need to rename the converted save to `[game].sav`, where `[game]` is the name of the rom (ie `pokemoncrystal.sav`).
 
 # acquiring the GS Ball in Pokémon Crystal
 - see [convert save data (Virtual Console)](#convert-save-data-Virtual-Console) for more context.
