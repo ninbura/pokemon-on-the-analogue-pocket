@@ -227,19 +227,9 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 - It would be impractical to list save locations for all flash carts in this guide, best to refer to the official documentation of the cart you're using. See [relevant guides](#relevant-guides) for product documentation, and video guides that should cover this topic.
 - Saves created by Cores can be found in the `Saves` folder in the root of the Micro SD card in your Analogue Pocket.
 ### retail cartridges
-- without additional hardware
-    1. Install a GBC/GBA Core, I recommend using Pocket Sync for this, see [cores / software / firmware](#cores--software--firmware).
-    2. Add the the ROM of the game you're trying to backup to the Core you installed. The "Games" section in Pocket Sync will expose the ROM locations of Cores you have installed.
-    3. insert and boot your cartridge
-    4. load your in-game save file
-    5. create a save state via the Analogue Pocket (`Analogue Button + D-Pad Up`)
-    6. load the ROM of the same game on your cartridge via a Core
-    7. load the save state you created via the cartridge
-    8. save in-game via the Core
-    9. Extract the `.sav` file from your Pocket's Micro SD Card, saves are located in the `Saves` folder in the root of the Micro SD card.
-- with additional hardware
-    - The two most popular cart/save dumping tools are the BennVenn Joey Jr. and the GB Operator.
-    - See [product links](#product-links) and [relevant guides](#relevant-guides) for purchase links and more information regarding these products.
+- As mentioned in the pro/cons section, you need additional hardware to backup/extract saves on retail cartridges.
+- The two most popular cart/save dumping tools are the BennVenn Joey Jr. and the GB Operator.
+- See [product links](#product-links) and [relevant guides](#relevant-guides) for purchase links and more information regarding these products.
 
 # convert save data (Virtual Console)
 ### preface
