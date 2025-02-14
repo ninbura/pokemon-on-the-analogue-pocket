@@ -22,9 +22,9 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
 
 # optimal play method per game
 ### preface
-- The below methods are selected as the optimal methods as they allow for in-game time to properly track (RTC) without de-sync, even when using Analogue Pocket's save state / sleep functionality.
-- Note that when using the EZ-Flash Omega DE you must utilize "Standalone Mode" / "Mode B" (see [relevant guides](#relevant-guides)) for the Analogue Pocket's sleep function to work. 
-- See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase/download links.
+- The below methods are selected as the optimal methods as they allow for in-game time to properly track (RTC) without de-sync, even when using Analogue Pocket's save state & sleep functionality.
+- Note that when using the EZ-Flash Omega DE you must utilize "Standalone Mode" / "Mode B" for the Analogue Pocket's sleep function to work (see [relevant guides](#relevant-guides)). 
+- See [product links](#product-links) & [cores / software / firmware](#cores--software--firmware) for purchase & download links.
 - See [play methods & pros/cons](#play-methods--proscons) for detailed pro/cons of each play method.
 ### optimal play methods
 - games with RTC
