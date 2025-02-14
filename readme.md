@@ -45,7 +45,7 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
     - BennVenn MBC3000
     - insideGadgets GBC RTC carts
 - interop with Pokémon Pal Park
-    - EZ-Flash Omega DE
+    - EZ-Flash Omega DE (Standalone Mode / Mode B)
 
 # play methods & pros/cons
 There are three methods of playing pokemon on the Analogue Pocket.
