@@ -132,7 +132,7 @@ There are three methods of playing pokemon on the Analogue Pocket.
 - #### [EverDrive GB X7](https://www.amazon.com/EverDrive-GB-X7-Game-Boy/dp/B07JZG3452/ref=sr_1_1?crid=1L2H6CSD8PIKM&keywords=EverDrive+GB+X7&qid=1700286142&sprefix=EverDrive+GB+%2Caps%2C138&sr=8-1)
     - 3x more expensive than the EZ-Flash Junior, albeit with a superior physical build quality.
     - When utilizing the cart's internal save state function, RTC data is recalculated upon loading a state, keeping in-game time in-sync with real time. However, for some users this seems to break the ability to save your game via the in-game saving mechanism.
-    - When utilizing the Analogue Pockets save state function, in-game time will become desynced with real time (see [manually reset RTC data](#manually-reset-RTC-data)).
+    - When utilizing the Analogue Pocket's save state function, in-game time will become desynced with real time (see [manually reset RTC data](#manually-reset-RTC-data)).
     - Incompatible with N64 Transfer Pak, and thus Pokémon Stadium.
 - #### [EZ-Flash Junior](https://www.amazon.com/EZ-Flash-EZ-FlashJr-Original-EverDrive/dp/B08379XZWY/ref=sr_1_1?crid=27VHV05U1YVS0&keywords=ez-flash+jr&qid=1700286287&sprefix=ez-flash+jr%2Caps%2C124&sr=8-1)
     - **!!! important !!!**
