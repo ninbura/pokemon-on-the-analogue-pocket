@@ -327,7 +327,7 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 - [mod 2/3DS systems & load checkpoint for save management](https://www.youtube.com/watch?v=lAOvQTuVW5o)
 
 # frequently asked questions
-### Why do I want to interface my gen 1&2 games with the N64 transfer pack / Pokémon Stadium 1&2?
+### Why do I want to interface my gen 1&2 games with the N64 Transfer Pack / Pokémon Stadium 1&2?
 Pokémon Stadium 1&2 provide these unique benefits
 - much easier Pokémon box orginzation
 - much faster / bulk transfer of Pokémon between games
