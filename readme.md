@@ -297,7 +297,7 @@ Note that after you extract your save, it is very likely you mess up your RTC da
 - [EverDrive GBA Mini x5](https://krikzz.com/our-products/cartridges/everdrive-gba-mini.html)
 - [micro SD card](https://www.amazon.com/Sandisk-MicroSDHC-V30-32GB-Extreme/dp/B01LRW8FWY/ref=sr_1_13?crid=387E7GIAA8IBU&keywords=extreme+pro+micro+SD+card&qid=1700288123&sprefix=extreme+pro+mi%2Caps%2C130&sr=8-13)
 - [EZ-Flash Junior, EverDrive GB X7, BennVenn MBC3000, & EverDrive GBA Mini battery replacement](https://www.amazon.com/dp/B014WXZO0G?psc=1&smid=A19DY5EK03NION&ref_=chk_typ_imgToDp) (CR1220)
-- [EZ-Flash Omega DE battery replacement](https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp) (CR1025)
+- [EZ-Flash Omega DE battery replacement]([https://www.amazon.com/dp/B001ERBLME?psc=1&smid=AI62U825BKVWC&ref_=chk_typ_imgToDp](https://www.amazon.com/Panasonic-Batteries-CR1025-Lithium-Battery/dp/B002E3QXMU?sr=1-3)) (CR1025)
 - [insideGadgets GBC carts battery replacement](https://www.amazon.com/Duracell-Lithium-Battery-Lasting-Count/dp/B07G7L5M4J/ref=sr_1_5?crid=S8BXXRKK17U9&dib=eyJ2IjoiMSJ9.-RhhqUEnEOUs7D29Trl6RogHqs206TL6e6n5L7pSAl1br6q03Tfm3K4nS6fBIe4rznz_6OgGFnjYbd1KIaXPH_2DlClztaNuUo1962X7ICQRFpPhqZ0fNok0NfB2E-yT3koLoGA5fbcgxq1mmAxANS5WWkHt50NRjaB8x79fklkhFerQuPeiivzhDLxWabxHeCGZMOv65BHLEvpN_JZ6oLkV8QoNHC3fpNaVlp1j3tdRsRROgEd0_KkfLDRMTy2arffaFUnGANqODgo-P4WiB2puy9XqRisKxKLrXTz1CBo.4emsr5u1FMxmbiqDdSz23-MjSU7cgupwFs0Wx0yXqLE&dib_tag=se&keywords=cr2025&qid=1710049061&sprefix=cr2025%2Caps%2C123&sr=8-5) (CR2025)
 
 # cores / software / firmware
