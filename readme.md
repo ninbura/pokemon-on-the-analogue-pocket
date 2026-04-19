@@ -32,44 +32,36 @@ Some Pokémon games are unique due to their utilization of real-time clock, aka 
     - Silver -> budude's GBC core
     - Gold -> budude's GBC core
     - Crystal -> budude's GBC core
-    - Ruby -> EZ-Flash Omega DE
-    - Sapphire -> EZ-Flash Omega DE
-    - Emerald -> EZ-Flash Omega DE
+    - Ruby -> mincer-ray's GBA core
+    - Sapphire -> mincer-ray's GBA core
+    - Emerald -> mincer-ray's GBA core
 - games without RTC
     - Red -> budude's GBC core
     - Blue -> budude's GBC core
     - Green -> budude's GBC core
     - Yellow -> budude's GBC core
-    - Fire Red -> GBA core
-    - Leaf Green -> GBA core
+    - Fire Red -> mincer-ray's GBA core
+    - Leaf Green -> mincer-ray's GBA core
 - interop with Pokémon Stadium
-    - BennVenn MBC3000
+    - BennVenn MBC3000 
     - insideGadgets GBC RTC carts
 - interop with Pokémon Pal Park
+    - EverDrive GBA Pro (Standalone Mode / Mode B)
     - EZ-Flash Omega DE (Standalone Mode / Mode B)
 
 # play methods & pros/cons
-There are three methods of playing pokemon on the Analogue Pocket.
+There are three methods of playing pokemon on the Analogue Pocket. 
 1. #### cores
     - pros
-        - GBC RTC Core
-            - time is tracked while you aren't playing the game
-            - sleep/save states are fully functional
-            - time does not desync with the use of sleep/save states
-            - basically a flawless implementation
-        - GBA Core
-            - sleep/save states are partially functional
-        - both
-            - free
-            - save files are easily accesible for backup
-            - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
+        - free
+        - save files are easily accesible for backup
+        - save data & RTC functionality is not dependant on the finite life of a non-rechargable battery
+        - time is tracked while you aren't playing the game
+        - sleep/save states are fully functional
+        - time does not desync with the use of sleep/save states
     - cons
-        - GBA Core
-            - time is only tracked when playing the game
-            - time is not re-calculated when sleep/save states are loaded on cores that utilize said functionality
-        - both
-            - additional setup required  
-            - incapable of interfacing with some Nintendo hardware/software (N64 Transfer Pak, Pal Park, etc.)
+        - additional setup required  
+        - incapable of interfacing with some Nintendo hardware/software (N64 Transfer Pak, Pal Park, etc.)
 2. #### flash carts
     - pros
         - GBC carts
